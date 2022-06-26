@@ -13,7 +13,7 @@ After graduating from London Metropolitan University with a first class with hon
 | Name     |Group/Alone  | Description | Technologies|
 |---       |---          |---          |---          |
 | **Final project** |Group | A webapp to do x. | React, Jest, etc.|
-| [Acebook](https://github.com/Farzan-I/acebook) |Group | A Facebook clone for which we taught ourselves Node and Handbars in a week | Node.js, Express, Handblebars, HTML, CSS, Jest |
+| [Acebook](https://github.com/Farzan-I/facebook-clone) |Group | A Facebook clone for which we taught ourselves Node and Handbars in a week | Node.js, Express, Handblebars, HTML, CSS, Jest |
 | [Chuckle Hotel BnB](https://github.com/Farzan-I/airbnb-clone.git)|Group | Made an AirBnB clone. We taught ourselves PostgreSQL within a day | Ruby, Rspec, Sinatra, Capybara, CSS, HTML, PostgreSQL |
 |[Rock, Paper, Scissors](https://github.com/Farzan-I/Rock-Paper-Scissors) | Alone | Local web based rock, paper, scissors game | Ruby, Rspec, Sinatra, Capybara, CSS, HTML |
 |[Student Directory](https://github.com/Farzan-I/student-directory) | Alone | A command line, interactive student directory that loads & saves student information | Ruby, git, Rspec |
