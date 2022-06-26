@@ -2,7 +2,7 @@
 
 [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/farzan-imanzadeh-079a95a3/) | [Blog](https://medium.com/@farzanimanzadeh)
 
-Detail oriented 30 year old professional, current Makers Academy student (April '22 intake) about to complete full time coding bootcamp. Learnt the fundamentals of the computers command line, extensive hours trying to perfect the use of git commands and branching/merging while completing Ruby and JavaScript projects using an extensive list of technological tools.
+Detail orientated 30 year old professional, current Makers Academy student (April '22 intake) about to complete full time coding bootcamp. Learnt the fundamentals of the computers command line, extensive hours trying to perfect the use of git commands and branching/merging while completing Ruby and JavaScript projects using an extensive list of technological tools.
 
 After graduating from London Metropolitan University with a first class with honours degree in Business Management, I spent a year working for Enterprise Rent-A-Car through their graduate scheme. Here I came to terms with the IBM software Ralph that started my fascination for software development. I also spent 6 months in Dubai working as a wealth advisor before I came back to the UK and had roles as a senior lettings negotiator and then after a supervisor in Pret A Manger. I have spent the last 8 months learning how to code and 4 of which has been with Makers Academy software development bootcamp.
 
