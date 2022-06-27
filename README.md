@@ -76,7 +76,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Experience
-
 **Language Empire** (Jan 2021 to Dec 2021)<br>
 *Farsi to English translator*
 - Translator for the NHS and other organisations requiring last minute translators 
@@ -118,9 +117,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Increased revenue by generating new streams through corporate clients and networking
 
 ## Education
-
 #### Makers Academy (Mar 2022 to Jul 2022)
-**16 week coding bootcamp**
+##### 16 week coding bootcamp
 - Made several [projects](#projects) using various programming languages
 - 
 
@@ -133,7 +131,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - RSpec, Jasmine
 
 #### London Metropolitan University (Sep 2010 to Jul 2014)
-**Business Management BA**
+##### Business Management BA
 - First class with honours degree
 - Studied modules such as psychology, marketing, risk management, economics and accounting
 - Centre back/wing back for the university football team
