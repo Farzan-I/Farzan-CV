@@ -20,27 +20,27 @@ After graduating from London Metropolitan University with a first class with hon
 |[Cultural Signatures Website](https://www.culturalsignatures.com/) |Alone |Website for my previous employer. Built with no prior coding knowledge | Node.js, Express, jest, CSS, HTML |
 
 ## Skills
-#### Natural leader
+### Natural leader
 
 By achieving a First Class degree in [Business Management](#education), I applied my understanding of being a better leader while working at Pizza Express as a manager. This allowed me to demonstrate my learnings instantly and see the benefits of being a leader as opposed to a boss. Organically being put forward for project manager on various group work, I ensured a cohesive and productive working environment by making sure every team member could be heard and have contribution towards the project. This meant better morale, a safe place to learn and above all everyone believing they are a better software developer than they were yesterday.
 
-#### Excellent Communicator
+### Excellent Communicator
 
 During my time at deVere Group, I wrote and distributed client quarterly reports as well as providing them with regular updates on their investments. This regular communication put clients' minds at ease which built trust and better rapport as a result. While at Enterprise Rent-A-Car, I was pinpointed for providing clarity on many issues customers (corporate and public) faced, such as what seemed to be bogus charges on their rental agreement or the mark-up insurance they did not know about before they rented their vehicles. My communication skills have been underlined by my time at Makers as I have provided coherence on the various teams I was in. These, as well as my written communication skills have been rehearsed in my [blogs](https://medium.com/@farzanimanzadeh).
 
-#### Thrives under pressure
+### Thrives under pressure
 From having to organise an end-of-year prom during my final year of secondary school, where the bulk of the organisation coincided with completing GCSE exams, to completing group [projects](#projects), I have always thrived when working under pressure. It is my strong organisational and time management skills that I have developed over time that allows me to do this. These, coupled with my competitive nature, allow me to work effectively when also under a time constraint.
 
-#### Fast learner
+### Fast learner
 I earned a full-time offer from deVere Group by impressing my line and regional manager with how quickly I picked up an understanding of the various financial products that the team used and sold to clients. Despite having a business management background, I was told only 1 out of 200 candidates would pass the rigorous job screening. For our [Acebook project](https://github.com/Farzan-I/acebook), I learnt Node.js and Express independently in a week and used it to build a fully-functioning Facebook style website. I solely built the website for my previous employer, [Cultural Signatures](https://www.culturalsignatures.com/) with no prior coding knowledge. Looking back on it, I can vastly improve every aspect of the website comfortably and showcases what I can achieve within a week.
 
-#### Shrewd negotiater
+### Shrewd negotiater
 In my role at AXM London, I negotiated deals that had the tenant, landlord as well as my company's best interests at heart. This was done by assessing the situation from all perspectives, seeing what needs have to be fulfilled and what can be compromised. Achieving the highest lettings figures for the company within 6 months underlined my effective negotiating skills. Amongst large competitors such as Knight Frank and Savills, I was highly recognised for taking their properties off the market and doing 'split deals' with them. This led to being offered roles in these companies as well as other estate agencies. Within Enterprise Rent-A-Car, I finished in the top 25 sales people of South-west England three times in a year. This was achieved by upselling various products such as fully comprehensive insurance on vehicles and/or upgrading a customer to another vehicle class. While at deVere Group, I turned cold leads to clients for life by communicating the added value of being in a tax free country (United Arab Emirates) and providing products that were tailor made for every client. This meant I had an active pipeline of deals flowing and in turn generated more revenue.
 
-#### Exceptional customer service
+### Exceptional customer service
 In a competitive industry, it helps to get noticed. One way to do so is treat every client as if it is your first and last. This meant word of mouth referrals from clients while I was at deVere Group and AXM London
 
-#### Additional skills
+### Additional skills
 - Methodologies : Agile, XP, Test Driven Development
 - Foreign languages : Spanish (basic), Farsi (fluent)
 
@@ -99,19 +99,19 @@ In a competitive industry, it helps to get noticed. One way to do so is treat ev
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### London Metropolitan University (Sep 2010 to Jul 2014)
+### London Metropolitan University (Sep 2010 to Jul 2014)
 **Business Management BA**
 - First class with honours degree
 - Studied modules such as psychology, marketing, risk management, economics and accounting
 - Centre back/wing back for the university football team
 
-#### St. Charles Sixth Form College (Sep 2008 to Jul 2011)
+### St. Charles Sixth Form College (Sep 2008 to Jul 2011)
 - **A Levels**: Business (B), Biology (D), Chemistry (D)
 - **AS Levels**: Sociology (C), Theatre Studies (C)
 - Centre back/wing back for the college football team
 - Full back for the college rugby team
 
-#### St. George's Roman Catholic school (Feb 2003 to Jul 2008)
+### St. George's Roman Catholic school (Feb 2003 to Jul 2008)
 - **GCSEs**: 9 A-C grades (including Business (A), English (A), Double Science (A,B) and Maths (B)
 - Student prefect: setting an example for peers and ensure school conduct is upkept
 - Centre back for the school football team
