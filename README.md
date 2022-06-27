@@ -20,18 +20,6 @@ After graduating from London Metropolitan University with a first class with hon
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
-
--STAR
--What was the situation/task? (ST)
-
--How was the skill used?
-
--What did you do? (action)
-
--What was the result?
-
 #### Excellent Communicator
 
 During my time at deVere Group, I wrote and distributed client quarterly reports as well as providing them with regular updates on their investments. While at Enterprise Rent-A-Car, I was pinpointed for providing clarity on many issues customers (corporate and public) faced, such as what seemed to be bogus charges on their rental agreement or the mark-up insurance they did not know about before they rented their vehicles. My communication skills have been underlined by my time at Makers as I have provided coherence on the various teams I was in. These, as well as my written communication skills have been rehearsed in my [blogs](https://medium.com/@farzanimanzadeh).
@@ -51,6 +39,18 @@ axm
 *********************
 End point before this
 *********************
+
+Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+(Using a STAR example Paragraph) Consider the questions below.
+
+-STAR
+-What was the situation/task? (ST)
+
+-How was the skill used?
+
+-What did you do? (action)
+
+-What was the result?
 
 #### This Skill
 
