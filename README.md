@@ -1,6 +1,6 @@
 ## Farzan Imanzadeh (he/him)
 
-[Projects](#projects) | [Skills](#skills) | [Experience](#work experience) | [Education](#education) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/farzan-imanzadeh-079a95a3/) | [Blog](https://medium.com/@farzanimanzadeh)
+[Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/farzan-imanzadeh-079a95a3/) | [Blog](https://medium.com/@farzanimanzadeh)
 
 Detail orientated 30 year old professional, current Makers Academy student (April '22 intake) about to complete the full time coding bootcamp. Learnt the fundamentals of the computers command line, extensive hours trying to perfect the use of git commands and branching/merging while completing Ruby and JavaScript projects using an extensive list of technological tools.
 
@@ -75,7 +75,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
-## Work Experience
+## Experience
 
 **Language Empire** (Jan 2021 to Dec 2021)<br>
 *Farsi to English translator*
