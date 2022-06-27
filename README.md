@@ -77,47 +77,47 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Experience
 ### Language Empire (Jan 2021 to Dec 2021)<br>
-*Farsi to English translator*
+**Farsi to English translator**
 - Translator for the NHS and other organisations requiring last minute translators 
 - Dealt with various age groups (10 - 90 year olds)
 
 ### Cultural Signatures (Mar 2020 to Nov 2020)<br>
-***Marketing Executive***
+**Marketing Executive**
 - Oversaw revamp of website and implemented HTML, CSS and Javascript tools 
 - Created awareness of upcoming events through several media outlets i.e. Instagram/Facebook
 - Sourcing and securing sponsorship, leading to charitable donations to several life-threatening diseases such as multiple sclerosis
 - Preparing weekly/monthly reports for management to aid tracking of marketing performance
 
 ### Pret A Manger (Dec 2018 to Aug 2019)<br>
-***Manager on Duty/Team Leader***
+**Manager on Duty/Team Leader**
 - Instigated a new customer experience through technology (iPad bolted to the counter to check allergens of products)
 - Management of high profile store in heart of London (Argyll Street, Oxford Circus)
 - Banking, supplies ordering and accounting reconciliation duties as well as opening and closing of the store
 - Training new team members regarding customer service in line with Pret standards
 
 ### AXM London Property Services (Dec 2017 to Nov 2018)<br>
-***Senior Lettings Negotiator***
+**Senior Lettings Negotiator**
 - Aided in the redesign of the website interface and public facing billboards
 - Provided exceptional customer service resulting in word of mouth referrals and Google reviews
 - Handling tenant complaints, resolving issues and preventing further issues by mitigating risk
 - Instigated new strategies for business development, leading to additional business and profit growth
 
 ### deVere Acuma (deVere Group) (May 2016 to Nov 2016)<br>
-***Wealth Advisor Team Member***
+**Wealth Advisor Team Member**
 - Suggested to senior management an app to track all clients' portfolios, was implemented in Feb 2017
 - Knowledge of various investments such as insurance, structured notes and other savings products
 - CRM system experience: confidential data handling
 - First point of contact for clients: complaints handling, quarterly reports, providing investment updates
 
 ### Enterprise Rent-A-Car (Nov 2014 to Dec 2015)<br>
-***Management Trainee*** (Graduate scheme)
+**Management Trainee** (Graduate scheme)
 - Experience using the IBM Ralph system made to control fleet of branch's vehicles
 - Within the top 3 sales people in the area and top 10 in Greater London for 3 months
 - Over 90% completely satisfied clients (public and corporate) within one year
 - Increased revenue by generating new streams through corporate clients and networking
 
 ## Education
-#### Makers Academy (Mar 2022 to Jul 2022)
+### Makers Academy (Mar 2022 to Jul 2022)
 **16 week coding bootcamp**
 - Made several [projects](#projects) using various programming languages
 - 
