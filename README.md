@@ -124,7 +124,7 @@ This was then underlined by the glowing feedback I received and over 90% complet
 - Centre back for the school football team
 
 ## Hobbies and Interests
-- **Football**: captained Aslan FC to their first ever 11 a side league title and won several Power Leagues
+- **Football**: captained Aslan FC to their first ever 11 a side league title in 2011/2012 and won several Power Leagues
 - **Charity work**: organised a prostate cancer football tournament, raising over £2000
 - **Fishing**: unwind on a sunny day with a reel in my hand (sometimes don't even catch anything!)
 - **Cooking**: love to make a variety of cuisines from around the world (chili con carne connoisseur)
