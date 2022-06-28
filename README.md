@@ -128,4 +128,4 @@ In a competitive industry, it helps to get noticed. One way to do so is treat ev
 - **Bouldering**: found peace in this art, it pushes my boundaries and appeals to my competitive spirit
 - **Gaming**: avid fan of video and board games (keen to try all of them!)
 - **Music**: attend concerts and festivals on a semi-regular basis (when I can get tickets)
-- **Karting**: unleash my inner Hamilton on a semi-regular basis and leave my rivals behind
+- **Karting**: practice Mario Kart in real life on a semi-regular basis, just without the shells or banana peels
