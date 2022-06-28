@@ -87,9 +87,12 @@ In a competitive industry, it helps to get noticed. One way to do so is treat ev
 
 ## Education
 ### Makers Academy (Mar 2022 to Jul 2022)
-**16 week coding bootcamp**
-- Made several [projects](#projects) using various programming languages
-- 
+**16-week intensive coding bootcamp**
+- Made several [projects](#projects) using various programming languages and development tools
+- Refining the art of test driven development and behaviour driven development to create production quality code
+- Developing a regular habit of working agile methodologies
+- Pair program on a regular basis, using the pomodoro technique to schedule breaks and maximise efficiency
+
 
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problem solve effeciently, requiring teamwork and communication.
@@ -120,5 +123,7 @@ In a competitive industry, it helps to get noticed. One way to do so is treat ev
 - **Football**: captained Aslan FC to their first ever 11 a side league title and won several Power Leagues
 - **Charity work**: organised a prostate cancer football tournament, raising over £2000
 - **Fishing**: unwind on a sunny day with a reel in my hand (sometimes don't even catch anything!)
-- **Cooking**: Love to make a variety of cuisines from around the world (chili con carne connoisseur)
-- **Bouldering**: Found peace in this art, it pushes my boundaries and resonates to my competitive spirit
+- **Cooking**: love to make a variety of cuisines from around the world (chili con carne connoisseur)
+- **Bouldering**: found peace in this art, it pushes my boundaries and appeals to my competitive spirit
+- **Gaming**: avid fan of video and board games (keen to try all of them!)
+- **Music**: attend concerts and festivals on a semi-regular basis (when I can get tickets)
