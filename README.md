@@ -2,9 +2,9 @@
 
 [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/farzan-imanzadeh-079a95a3/) | [Blog](https://medium.com/@farzanimanzadeh)
 
-Detail orientated 30 year old professional, current Makers Academy student (April '22 intake) about to complete the full time coding bootcamp. Learnt the fundamentals of the computers command line, extensive hours trying to perfect the use of git commands and branching/merging while completing Ruby and JavaScript projects using an extensive list of technological tools.
+Detail orientated 30 year old professional, current Makers Academy student (April '22 intake) about to complete the full time coding bootcamp. Learnt the fundamentals of the computers command line, extensive hours trying to perfect the use of git commands and branching/merging while completing Ruby and JavaScript projects using an extensive list of technological tools, as well as working methodologies.
 
-After graduating from London Metropolitan University with a first class with honours degree in Business Management, I spent a year working for Enterprise Rent-A-Car through their graduate scheme. Here I came to terms with the IBM software Ralph that started my fascination for software development. I also spent 6 months in Dubai working as a wealth advisor before I came back to the UK and had roles as a senior lettings negotiator and then after a supervisor in Pret A Manger. I have spent the last 8 months learning how to code and 4 of which has been with Makers Academy bootcamp.
+After graduating from London Metropolitan University with a first class degree in Business Management, I spent a year working for Enterprise Rent-A-Car through their graduate scheme. Here I came to terms with the IBM software Ralph that started my fascination for software development. I also spent 6 months in Dubai working as a wealth advisor before I came back to the UK and had roles as a senior lettings negotiator at AXM London, moving onto a supervisor role in Pret A Manger. I have spent the last 8 months learning how to code and 4 of which has been with Makers Academy bootcamp.
 
 **Tech skills** : Ruby, JavaScript, HTML, CSS, Sinatra, Rspec, Capybara, Node.js, IRB, PostreSQL, Handlebars, Jest
 
@@ -23,7 +23,7 @@ After graduating from London Metropolitan University with a first class with hon
 
 ### Excellent Communicator
 
-During my time at deVere Group, I wrote and distributed client quarterly reports as well as providing them with regular updates on their investments. This regular communication put a client's mind at ease, which built trust and better rapport as a result. While at Enterprise Rent-A-Car, I was pinpointed for providing clarity on many issues customers faced (corporate and public). This was then underlined by the glowing feedback I received and over 90% completely satisfied customers we had for 9 out of the 12 months I was at the specified branch, St John's Wood, reiterating my communication and [customer service](#exceptional-customer-service) skills. My communication skills have been underlined by my time at Makers as I have provided coherence on the various teams I was in. These, as well as my written communication skills have been rehearsed in my [blogs](https://medium.com/@farzanimanzadeh).
+During my time at deVere Group, I wrote and distributed client quarterly reports as well as providing them with regular updates on their investments. This constant communication put a client's mind at ease, which built trust and better rapport, turning a client to a customer for life. While at Enterprise Rent-A-Car, I was pinpointed for providing clarity on many issues customers faced (corporate and public). This was then underlined by the glowing feedback I received and over 90% completely satisfied customers we had for 9 out of the 12 months I was at the specified branch, St John's Wood, reiterating my communication and [customer service](#exceptional-customer-service) skills. My communication skills have been underlined by my time at Makers as I have provided cohesion on the various teams I was in. My written communication skills have been rehearsed in my [blogs](https://medium.com/@farzanimanzadeh), as well as the README's for my [projects](#projects).
 
 ### Natural leader
 
@@ -93,6 +93,7 @@ In a competitive industry, it helps to get noticed. One way to do so is treat ev
 - Refining the art of test driven development and behaviour driven development to create production quality code
 - Developing a regular habit of working agile methodologies
 - Pair program on a regular basis, using the pomodoro technique to schedule breaks and maximise efficiency
+- Learnt various computer based languages such as Ruby and JavaScript. Full list can be found under tech skills
 
 
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
