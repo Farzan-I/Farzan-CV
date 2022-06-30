@@ -4,20 +4,20 @@
 
 Detail orientated 30 year old professional, current Makers Academy student (April '22 intake) about to complete the full time coding bootcamp. Learnt the fundamentals of the computers command line, extensive hours trying to perfect the use of git commands and branching/merging while completing Ruby and JavaScript projects using an extensive list of technological tools, as well as working methodologies.
 
-After graduating from London Metropolitan University with a first class degree in Business Management, I spent a year working for Enterprise Rent-A-Car through their graduate scheme. Here I came to terms with the IBM software Ralph that started my fascination for software development. I also spent 6 months in Dubai working as a wealth advisor before I came back to the UK and had roles as a senior lettings negotiator at AXM London, moving onto a supervisor role in Pret A Manger. I have spent the last 8 months learning how to code and 4 of which has been with Makers Academy bootcamp.
+After graduating from London Metropolitan University with a first class degree in Business Management, I spent a year working for Enterprise Rent-A-Car through their graduate scheme. Here I came to terms with the IBM software Ralph that started my fascination for software development. I also spent 6 months in Dubai working as a wealth advisor before I came back to the UK and had roles as a senior lettings negotiator at AXM London, moving onto a supervisor role in Pret A Manger. I have spent the last 8 months learning how to code and 4 of which have been with Makers Academy bootcamp.
 
-**Tech skills** : Ruby, JavaScript, HTML, CSS, Sinatra, Rspec, Capybara, Node.js, IRB, PostreSQL, Handlebars, Jest
+**Tech skills** : Ruby, JavaScript, HTML, CSS, Sinatra, Rspec, Capybara, Node.js, IRB, PostreSQL, Handlebars, Jest, Express, Mongo
 
 ## Projects
 
 | Name     |Group/Alone  | Description | Technologies|
 |---       |---          |---          |---          |
-| **Final project** |Group | A webapp to do x. | React, Jest, etc.|
-| [Acebook](https://github.com/Farzan-I/facebook-clone) |Group | A Facebook clone for which we taught ourselves Node and Handbars in a week | Node.js, Express, Handblebars, HTML, CSS, Jest |
-| [Chuckle Hotel BnB](https://github.com/Farzan-I/airbnb-clone.git)|Group | Made an AirBnB clone. We taught ourselves PostgreSQL within a day | Ruby, Rspec, Sinatra, Capybara, CSS, HTML, PostgreSQL |
+| **Final project** | Group | A webapp to do x. | React, Jest, etc.|
+| [Acebook](https://github.com/Farzan-I/facebook-clone) | Group | A Facebook clone for which I learnt Node and Handbars in a week | Node.js, Express, Handblebars, HTML, CSS, Jest, Mongo |
+| [Chuckle Hotel BnB](https://github.com/Farzan-I/airbnb-clone.git)| Group | Made an AirBnB clone. Learnt PostgreSQL in a day | Ruby, Rspec, Sinatra, Capybara, CSS, HTML, PostgreSQL |
 |[Rock, Paper, Scissors](https://github.com/Farzan-I/Rock-Paper-Scissors) | Alone | Local web based rock, paper, scissors game | Ruby, Rspec, Sinatra, Capybara, CSS, HTML |
 |[Student Directory](https://github.com/Farzan-I/student-directory) | Alone | A command line, interactive student directory that loads & saves student information | Ruby, git, Rspec |
-|[Cultural Signatures Website](https://www.culturalsignatures.com/) |Alone |Website for my previous employer. Built with no prior coding knowledge | Node.js, Express, jest, CSS, HTML |
+|[Cultural Signatures Website](https://www.culturalsignatures.com/) | Alone | Website for my previous employer. Built with no prior coding knowledge | Node.js, Express, jest, CSS, HTML |
 
 ## Skills
 
@@ -27,7 +27,7 @@ During my time at deVere Group, I wrote and distributed client quarterly reports
 
 ### Natural leader
 
-By achieving a First Class degree in [Business Management](#london-metropolitan-university-sep-2010-to-jul-2014), I applied my understanding of being a better leader while working at Pizza Express as a manager. This allowed me to demonstrate my learnings instantly and see the benefits of being a leader as opposed to a boss. Organically being put forward for project manager on various group works, I ensured a cohesive and productive working environment by making sure every team member could be heard and have contribution towards the project. This meant better morale, a safe place to learn and above all, everyone believing they are a better software developer than they were yesterday. In 2011/2012, I captained Aslan FC to their [first ever league title](#hobbies-and-interests), in their first ever year in the competition.
+By achieving a First Class degree in [Business Management](#london-metropolitan-university-sep-2010-to-jul-2014), I applied my understanding of being a better leader while working at Pizza Express as a manager. This allowed me to demonstrate my learnings instantly and see the benefits of being a leader as opposed to a boss. Organically being put forward for project manager on various group works, I ensured a cohesive and productive working environment by making sure every team member was heard and have made contributions towards the project. This meant better morale, a safe place to learn and above all, everyone believing they are a better software developer than they were yesterday. In 2011/2012, I captained Aslan FC to their [first ever league title](#hobbies-and-interests), in their first ever year in the competition. This reaffirmed my competitive nature as well as my leadership skills.
 
 ### Thrives under pressure
 From having to organise an end-of-year prom during my final year of secondary school, where the bulk of the organisation coincided with completing GCSE exams, to completing group [projects](#projects), I have always thrived when working under pressure. It is my strong organisational and time management skills that I have developed over time that allows me to do this. These, coupled with my competitive nature, allow me to work effectively when also under a time constraint.
@@ -121,6 +121,7 @@ This was then underlined by the glowing feedback I received and over 90% complet
 ### St. George's Roman Catholic school (Feb 2003 to Jul 2008)
 - **GCSEs**: 9 A-C grades (including Business (A), English (A), Double Science (A,B) and Maths (B)
 - Student prefect: setting an example for peers and ensure school conduct is upkept
+- Organised end of year prom during final year while juggling GCSE exams
 - Centre back for the school football team
 
 ## Hobbies and Interests
