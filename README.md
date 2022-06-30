@@ -101,7 +101,7 @@ This was then underlined by the glowing feedback I received and over 90% complet
 
 ## Education
 ### Makers Academy 
-#### (Mar 2022 to Jul 2022)
+***(Mar 2022 to Jul 2022)***<br>
 **16-week intensive coding bootcamp**
 - Made several [projects](#projects) using various programming languages and development tools
 - Refining the art of test driven development and behaviour driven development to create production quality code
