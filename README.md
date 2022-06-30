@@ -15,7 +15,7 @@ Ruby, JavaScript, HTML, CSS, Sinatra, Rspec, Capybara, Node.js, IRB, PostreSQL, 
 |---       |---          |---          |---          |
 | **Final project** | Group | A webapp to do x. | React, Jest, etc.|
 | [Acebook](https://github.com/Farzan-I/facebook-clone) | Group | A Facebook clone for which I learnt Node and Handbars in a week | Node.js, Express, Handblebars, HTML, CSS, Jest, Mongo |
-| [Chuckle Hotel BnB](https://github.com/Farzan-I/airbnb-clone.git)| Group | Made an AirBnB clone. Learnt PostgreSQL in a day | Ruby, Rspec, Sinatra, Capybara, CSS, HTML, PostgreSQL |
+| [Chuckle Hotel](https://github.com/Farzan-I/airbnb-clone.git)| Group | Made an AirBnB clone. Learnt PostgreSQL in a day | Ruby, Rspec, Sinatra, Capybara, CSS, HTML, PostgreSQL |
 |[Rock, Paper, Scissors](https://github.com/Farzan-I/Rock-Paper-Scissors) | Alone | Local web based rock, paper, scissors game | Ruby, Rspec, Sinatra, Capybara, CSS, HTML |
 |[Student Directory](https://github.com/Farzan-I/student-directory) | Alone | A command line, interactive student directory that loads & saves student information | Ruby, git, Rspec |
 |[Pointless Quest Terminal Game](https://github.com/Farzan-I/pointless-quest-game) | Alone | A command line, interactive terminal game made while trying to teach myself Ruby | Ruby, git |
@@ -41,9 +41,7 @@ I earned a full-time offer from deVere Group by impressing my line and regional 
 In my role at [AXM London](#axm-london-property-services-dec-2017-to-nov-2018), I negotiated deals that had the tenant, landlord as well as my company's best interests at heart. This was done by assessing the situation from all perspectives, seeing what needs have to be fulfilled and what can be compromised. Achieving the highest lettings figures for the company within 6 months underlined my effective negotiating skills. Amongst large competitors such as Knight Frank and Savills, I was highly recognised for taking their properties off the market and doing 'split deals' with them. This led to being offered roles in these companies as well as other estate agencies. Within Enterprise Rent-A-Car, I finished in the top 25 sales people of South-west England three times in a year. This was achieved by upselling various products such as fully comprehensive insurance on vehicles and/or upgrading a customer to another vehicle class. While at deVere Group, I turned cold leads to clients for life by communicating the added value of being in a tax free country (United Arab Emirates) and providing products that were tailor made for every client. This meant I had an active pipeline of deals flowing and in turn generated more revenue.
 
 ### Exceptional customer service
-In a competitive industry, it helps to get noticed. One way to do so is treat every client as if it is your first and last. This meant word of mouth referrals from clients while I was at deVere Group and AXM London
-
-This was then underlined by the glowing feedback I received and over 90% completely satisfied customers we had for 9 out of the 12 months I was at the specified branch, St John's Wood, reiterating my communication and [customer service](#exceptional-customer-service) skills. 
+In a competitive industry, it helps to get noticed. One way to do so is treat every client as if it is your first and last. This meant word of mouth referrals from clients while I was at deVere Group and AXM London. While I was at Enterprise Rent-A-Car, I received glowing feedback, three comemorative 'E pins' and over 90% completely satisfied customers for 9 out of the 12 months I was at the specified branch, St John's Wood.
 
 ### Additional skills
 - Methodologies : Agile, XP, Test Driven Development
@@ -130,3 +128,4 @@ This was then underlined by the glowing feedback I received and over 90% complet
 - **Gaming**: avid fan of video and board games (keen to try all of them!)
 - **Music**: attend concerts and festivals on a semi-regular basis (when I can get tickets)
 - **Karting**: practice Mario Kart in real life on a semi-regular basis, just without the shells or banana peels
+- **Donate blood**: regularly donate blood (every 3-6 months) to help those that may need it
