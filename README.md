@@ -29,7 +29,7 @@ During my time at [deVere Group](#devere-acuma-devere-group-may-2016-to-nov-2016
 
 ### Natural leader
 
-By achieving a First Class degree in [Business Management](#london-metropolitan-university-sep-2010-jul-2014), I applied my understanding of being a better leader while working at Pizza Express as a manager. This allowed me to demonstrate my learnings instantly and see the benefits of being a leader as opposed to a boss. Organically being put forward for project manager on various group works, I ensured a cohesive and productive working environment by making sure every team member was heard and have made contributions towards the project. This meant better morale, a safe place to learn and above all, everyone believing they are a better software developer than they were yesterday. In 2011/2012, I captained Aslan FC to their [first ever league title](#hobbies-and-interests), in their first ever year in the competition. This reaffirmed my competitive nature as well as my leadership skills.
+By achieving a First Class degree in [Business Management](#london-metropolitan-university-sep-2010-to-jul-2014), I applied my understanding of being a better leader while working at Pizza Express as a manager. This allowed me to demonstrate my learnings instantly and see the benefits of being a leader as opposed to a boss. Organically being put forward for project manager on various group works, I ensured a cohesive and productive working environment by making sure every team member was heard and have made contributions towards the project. This meant better morale, a safe place to learn and above all, everyone believing they are a better software developer than they were yesterday. In 2011/2012, I captained Aslan FC to their [first ever league title](#hobbies-and-interests), in their first ever year in the competition. This reaffirmed my competitive nature as well as my leadership skills.
 
 ### Thrives under pressure
 From having to organise an end-of-year prom during my final year of secondary school, where the bulk of the organisation coincided with completing GCSE exams, to completing group [projects](#projects), I have always thrived when working under pressure. It is my strong organisational and time management skills that I have developed over time that allows me to do this. These, coupled with my competitive nature, allow me to work effectively when also under a time constraint.
@@ -66,7 +66,7 @@ This was then underlined by the glowing feedback I received and over 90% complet
 
 ### Pret A Manger (Dec 2018 to Aug 2019)<br>
 **Manager on Duty/Team Leader**
-- Instigated a new customer experience through technology (iPad bolted to the counter to check allergens of products)
+- Instigated a new customer experience through technology (iPad bolted to the counter to check allergens and ingredients of products)
 - Management of high profile store in heart of London (Argyll Street, Oxford Circus)
 - Banking, supplies ordering and accounting reconciliation duties as well as opening and closing of the store
 - Training new team members regarding customer service in line with Pret standards
