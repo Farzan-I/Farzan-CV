@@ -1,4 +1,4 @@
-## Farzan Imanzadeh (he/him)
+## Farzan Imanzadeh
 
 [Tech Skills](#tech-skills) | [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/farzan-imanzadeh-079a95a3/) | [Blog](https://medium.com/@farzanimanzadeh)
 
