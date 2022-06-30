@@ -64,16 +64,14 @@ This was then underlined by the glowing feedback I received and over 90% complet
 - Sourcing and securing sponsorship, leading to charitable donations to several life-threatening diseases such as multiple sclerosis
 - Preparing weekly/monthly reports for management to aid tracking of marketing performance
 
-### Pret A Manger 
-#### (Dec 2018 to Aug 2019)<br>
+### Pret A Manger (Dec 2018 to Aug 2019)<br>
 **Manager on Duty/Team Leader**
 - Instigated a new customer experience through technology (iPad bolted to the counter to check allergens of products)
 - Management of high profile store in heart of London (Argyll Street, Oxford Circus)
 - Banking, supplies ordering and accounting reconciliation duties as well as opening and closing of the store
 - Training new team members regarding customer service in line with Pret standards
 
-### AXM London Property Services 
-#### (Dec 2017 to Nov 2018)<br>
+### AXM London Property Services (Dec 2017 to Nov 2018)<br>
 **Senior Lettings Negotiator**
 - Aided in the redesign of the website interface and public facing billboards
 - Provided exceptional customer service resulting in word of mouth referrals and positive Google reviews
@@ -81,8 +79,7 @@ This was then underlined by the glowing feedback I received and over 90% complet
 - Instigated new strategies for business development, leading to additional revenue and in turn profit growth
 - Trained new staff by sharing the property knowledge acquired
 
-### deVere Acuma (deVere Group) 
-#### (May 2016 to Nov 2016)<br>
+### deVere Acuma (deVere Group) (May 2016 to Nov 2016)<br>
 **Wealth Advisor Team Member**
 - Suggested to senior management an app to track all clients' portfolios, was implemented in Feb 2017
 - Knowledge of various investments such as insurance, structured notes and other savings products
@@ -90,9 +87,8 @@ This was then underlined by the glowing feedback I received and over 90% complet
 - First point of contact for clients: complaints handling, quarterly reports, providing investment updates
 - Generating leads through cold calling, networking in events as well as organic word-of-mouth referrals
 
-### Enterprise Rent-A-Car 
-#### (Nov 2014 to Dec 2015)<br>
-**Management Trainee** (Graduate scheme)
+### Enterprise Rent-A-Car (Nov 2014 to Dec 2015)<br>
+**Management Trainee** *(Graduate scheme)*
 - Experience using the IBM Ralph system made to control fleet of branch's vehicles
 - Within the top 3 sales people in the area and top 10 in Greater London for 3 months
 - Over 90% completely satisfied clients (public and corporate) within one year
@@ -100,8 +96,7 @@ This was then underlined by the glowing feedback I received and over 90% complet
 - Increased revenue by generating new streams through corporate clients, networking and word-of-mouth
 
 ## Education
-### Makers Academy 
-***(Mar 2022 to Jul 2022)***<br>
+### Makers Academy (Mar 2022 to Jul 2022)<br>
 **16-week intensive coding bootcamp**
 - Made several [projects](#projects) using various programming languages and development tools
 - Refining the art of test driven development and behaviour driven development to create production quality code
@@ -109,22 +104,19 @@ This was then underlined by the glowing feedback I received and over 90% complet
 - Pair program on a regular basis, using the pomodoro technique to schedule breaks and maximise efficiency
 - Learnt various computer based languages such as Ruby and JavaScript. Full list can be found under tech skills
 
-### London Metropolitan University 
-#### (Sep 2010 to Jul 2014)
+### London Metropolitan University (Sep 2010 to Jul 2014)
 **Business Management BA**
 - First class with honours degree
 - Studied modules such as psychology, marketing, risk management, economics and accounting
 - Centre back/wing back for the university football team
 
-### St. Charles Sixth Form College 
-#### (Sep 2008 to Jul 2011)
+### St. Charles Sixth Form College (Sep 2008 to Jul 2011)
 - **A Levels**: Business (B), Biology (D), Chemistry (D)
 - **AS Levels**: Sociology (C), Theatre Studies (C)
 - Centre back/wing back for the college football team
 - Full back for the college rugby team
 
-### St. George's Roman Catholic school 
-#### (Feb 2003 to Jul 2008)
+### St. George's Roman Catholic school (Feb 2003 to Jul 2008)
 - **GCSEs**: 9 A-C grades (including Business (A), English (A), Double Science (A,B) and Maths (B)
 - Student prefect: setting an example for peers and ensure school conduct is upkept
 - Organised end of year prom during final year while juggling GCSE exams
