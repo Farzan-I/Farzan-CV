@@ -50,14 +50,13 @@ This was then underlined by the glowing feedback I received and over 90% complet
 - Foreign languages : Spanish (basic), Farsi (fluent)
 
 ## Experience
-### Language Empire 
-#### (Jan 2021 to Dec 2021)<br>
+### Language Empire (Jan 2021 to Dec 2021)<br>
 **Farsi to English translator**
 - Translator for the NHS and other organisations requiring last minute translators 
 - Dealt with various age groups (10 - 90 year olds)
+- Provided exceptional customer service and was requested personally for many appointments
 
-### Cultural Signatures 
-#### (Mar 2020 to Nov 2020)<br>
+### Cultural Signatures (Mar 2020 to Nov 2020)<br>
 **Marketing Executive**
 - Oversaw revamp of [website](https://www.culturalsignatures.com) and implemented HTML, CSS and Javascript tools 
 - Created awareness of upcoming events through several media outlets i.e. Instagram/Facebook
