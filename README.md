@@ -17,6 +17,7 @@ After graduating from London Metropolitan University with a first class degree i
 | [Chuckle Hotel BnB](https://github.com/Farzan-I/airbnb-clone.git)| Group | Made an AirBnB clone. Learnt PostgreSQL in a day | Ruby, Rspec, Sinatra, Capybara, CSS, HTML, PostgreSQL |
 |[Rock, Paper, Scissors](https://github.com/Farzan-I/Rock-Paper-Scissors) | Alone | Local web based rock, paper, scissors game | Ruby, Rspec, Sinatra, Capybara, CSS, HTML |
 |[Student Directory](https://github.com/Farzan-I/student-directory) | Alone | A command line, interactive student directory that loads & saves student information | Ruby, git, Rspec |
+|[Pointless Quest Terminal Game]([https://github.com/Farzan-I/student-directory](https://github.com/Farzan-I/pointless-quest-game)) | Alone | A command line, interactive terminal game made while trying to teach myself Ruby | Ruby, git |
 |[Cultural Signatures Website](https://www.culturalsignatures.com/) | Alone | Website for my previous employer. Built with no prior coding knowledge | Node.js, Express, jest, CSS, HTML |
 
 ## Skills
