@@ -1,12 +1,13 @@
 ## Farzan Imanzadeh (he/him)
 
-[Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/farzan-imanzadeh-079a95a3/) | [Blog](https://medium.com/@farzanimanzadeh)
+[Tech Skills](#tech-skills) | [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/farzan-imanzadeh-079a95a3/) | [Blog](https://medium.com/@farzanimanzadeh)
 
 Detail orientated 30 year old professional, current Makers Academy student (April '22 intake) about to complete the full time coding bootcamp. Learnt the fundamentals of the computers command line, extensive hours trying to perfect the use of git commands and branching/merging while completing Ruby and JavaScript projects using an extensive list of technological tools, as well as working methodologies.
 
 After graduating from London Metropolitan University with a first class degree in Business Management, I spent a year working for Enterprise Rent-A-Car through their graduate scheme. Here I came to terms with the IBM software Ralph that started my fascination for software development. I also spent 6 months in Dubai working as a wealth advisor before I came back to the UK and had roles as a senior lettings negotiator at AXM London, moving onto a supervisor role in Pret A Manger. I have spent the last 8 months learning how to code and 4 of which have been with Makers Academy bootcamp.
 
-**Tech skills** : Ruby, JavaScript, HTML, CSS, Sinatra, Rspec, Capybara, Node.js, IRB, PostreSQL, Handlebars, Jest, Express, Mongo
+## Tech skills
+Ruby, JavaScript, HTML, CSS, Sinatra, Rspec, Capybara, Node.js, IRB, PostreSQL, Handlebars, Jest, Express, Mongo
 
 ## Projects
 
