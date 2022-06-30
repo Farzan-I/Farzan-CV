@@ -99,15 +99,6 @@ This was then underlined by the glowing feedback I received and over 90% complet
 - Pair program on a regular basis, using the pomodoro technique to schedule breaks and maximise efficiency
 - Learnt various computer based languages such as Ruby and JavaScript. Full list can be found under tech skills
 
-
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problem solve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
-
 ### London Metropolitan University (Sep 2010 to Jul 2014)
 **Business Management BA**
 - First class with honours degree
