@@ -4,11 +4,11 @@
 
 ### Contents
 
-[![tech-skills](https://img.shields.io/badge/-Tech%20skills-green)](#tech-skills) | [![projects](https://img.shields.io/badge/-Projects-maroon)](#projects) | [![skills](https://img.shields.io/badge/-Skills-cyan)](#skills) | [Experience](#experience) | [Education](#education) | [Hobbies and Interests](#hobbies-and-interests) | 
+[![tech-skills](https://img.shields.io/badge/-Tech%20skills-green)](#tech-skills) | [![projects](https://img.shields.io/badge/-Projects-maroon)](#projects) | [![skills](https://img.shields.io/badge/-Skills-cyan)](#skills) | [Experience](#experience) | [Education](#education) | [Hobbies and Interests](#hobbies-and-interests) |
 
 
 ### Contact/Links
-[![LinkedIn]](https://www.linkedin.com/in/farzan-imanzadeh-079a95a3/) | [![Blog]](https://medium.com/@farzanimanzadeh) |
+[![LinkedIn]](https://www.linkedin.com/in/farzan-imanzadeh-079a95a3/) | [![Blog]](https://medium.com/@farzanimanzadeh) | [![CodeWars Profile]](https://www.codewars.com/users/fazzy15)
 </div>
 
 Detail orientated 30 year old professional, current Makers Academy student (April '22 intake) about to complete the full time coding bootcamp. Learnt the fundamentals of the computers command line, extensive hours trying to perfect the use of git commands and branching/merging while completing Ruby and JavaScript projects using an extensive list of technological tools, as well as working methodologies.
@@ -142,3 +142,4 @@ In a competitive industry, it helps to get noticed. One way to do so is treat ev
 <!-- Badge Links -->
 [LinkedIn]: https://img.shields.io/badge/LinkedIn-%232A6AC7?style=for-the-badge&logo=linkedin
 [Blog]: https://img.shields.io/badge/Medium_blog-%2312100E?style=for-the-badge&logo=medium&logoColor=white
+[codewars profile]: https://img.shields.io/badge/CodeWars-%23AD2C27?style=for-the-badge&logo=codewars&logoColor=white
