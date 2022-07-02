@@ -1,8 +1,10 @@
 # Farzan Imanzadeh
-<div text-align="center">
+<div align="center">
+## Contents
 [![tech-skills](https://img.shields.io/badge/-Tech%20skills-green)](#tech-skills) | [![projects](https://img.shields.io/badge/-Projects-maroon)](#projects) | [![skills](https://img.shields.io/badge/-Skills-cyan)](#skills) | [Experience](#experience) | [Education](#education) | [Hobbies and Interests](#hobbies-and-interests) | 
-</div>
-<div text-align="center">
+
+
+## Contact/Links
 [![LinkedIn]](https://www.linkedin.com/in/farzan-imanzadeh-079a95a3/) | [![Blog]](https://medium.com/@farzanimanzadeh) |
 </div>
 
