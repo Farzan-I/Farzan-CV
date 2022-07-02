@@ -4,7 +4,7 @@
 
 ### Contents
 
-[![tech-skills](https://img.shields.io/badge/-Tech%20skills-green)](#tech-skills) | [![projects](https://img.shields.io/badge/-Projects-maroon)](#projects) | [![skills](https://img.shields.io/badge/-Skills-cyan)](#skills) | [![Experience](https://img.shields.io/badge/-Experience-orange)](#experience) | [Education](#education) | [Hobbies and Interests](#hobbies-and-interests) |
+[![tech-skills](https://img.shields.io/badge/-Tech%20Skills-33FF99)](#tech-skills) | [![projects](https://img.shields.io/badge/-Projects-maroon)](#projects) | [![skills](https://img.shields.io/badge/-Skills-cyan)](#skills) | [![Experience](https://img.shields.io/badge/-Experience-orange)](#experience) | [Education](#education) | [Hobbies and Interests](#hobbies-and-interests) |
 
 
 ### Contact/Links
