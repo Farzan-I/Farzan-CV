@@ -1,6 +1,10 @@
-## Farzan Imanzadeh
-
-[![tech-skills](https://img.shields.io/badge/-Tech%20skills-green)](#tech-skills) | [![projects](https://img.shields.io/badge/-Projects-maroon)](#projects) | [![skills](https://img.shields.io/badge/-Skills-cyan)](#skills) | [Experience](#experience) | [Education](#education) | [Hobbies and Interests](#hobbies-and-interests) | [![LinkedIn]](https://www.linkedin.com/in/farzan-imanzadeh-079a95a3/) | [![Blog]](https://medium.com/@farzanimanzadeh) |
+# Farzan Imanzadeh
+<div text-align=center>
+[![tech-skills](https://img.shields.io/badge/-Tech%20skills-green)](#tech-skills) | [![projects](https://img.shields.io/badge/-Projects-maroon)](#projects) | [![skills](https://img.shields.io/badge/-Skills-cyan)](#skills) | [Experience](#experience) | [Education](#education) | [Hobbies and Interests](#hobbies-and-interests) | 
+</div>
+<div text-align=center>
+[![LinkedIn]](https://www.linkedin.com/in/farzan-imanzadeh-079a95a3/) | [![Blog]](https://medium.com/@farzanimanzadeh) |
+</div>
 
 Detail orientated 30 year old professional, current Makers Academy student (April '22 intake) about to complete the full time coding bootcamp. Learnt the fundamentals of the computers command line, extensive hours trying to perfect the use of git commands and branching/merging while completing Ruby and JavaScript projects using an extensive list of technological tools, as well as working methodologies.
 
