@@ -1,6 +1,6 @@
 # Farzan Imanzadeh
 <div align="center">
-## Contents
+## Navigation
 [![tech-skills](https://img.shields.io/badge/-Tech%20skills-green)](#tech-skills) | [![projects](https://img.shields.io/badge/-Projects-maroon)](#projects) | [![skills](https://img.shields.io/badge/-Skills-cyan)](#skills) | [Experience](#experience) | [Education](#education) | [Hobbies and Interests](#hobbies-and-interests) | 
 
 
