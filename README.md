@@ -2,12 +2,12 @@
 
 <div align="center">
 
-### Navigation
+### Contents
 
 [![tech-skills](https://img.shields.io/badge/-Tech%20skills-green)](#tech-skills) | [![projects](https://img.shields.io/badge/-Projects-maroon)](#projects) | [![skills](https://img.shields.io/badge/-Skills-cyan)](#skills) | [Experience](#experience) | [Education](#education) | [Hobbies and Interests](#hobbies-and-interests) | 
 
 
-## Contact/Links
+### Contact/Links
 [![LinkedIn]](https://www.linkedin.com/in/farzan-imanzadeh-079a95a3/) | [![Blog]](https://medium.com/@farzanimanzadeh) |
 </div>
 
