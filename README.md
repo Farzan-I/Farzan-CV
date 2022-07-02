@@ -131,5 +131,5 @@ In a competitive industry, it helps to get noticed. One way to do so is treat ev
 - **Donate blood**: regularly donate blood (every 3-6 months) to help those that may need it
 
 <!-- Badge Links -->
-[LinkedIn]: https://img.shields.io/badge/LinkedIn-%232A6AC7?
+[LinkedIn]: https://img.shields.io/badge/LinkedIn-%232A6AC7?style=for-the-badge&logo=linkedin
 [Blog]: https://img.shields.io/badge/Medium_blog-%2312100E?style=for-the-badge&logo=medium&logoColor=white
