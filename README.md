@@ -28,7 +28,7 @@ Graduating from [London Metropolitan University](#london-metropolitan-university
   </thead>
   <tbody>
     <tr>
-      <td>
+      <td style="vertical-align: top">
         <ul>
           <li>JavaScript</li>
           <li>Ruby</li>
@@ -65,12 +65,13 @@ Graduating from [London Metropolitan University](#london-metropolitan-university
           <li>TDD/BDD</li>
           <li>Object Oriented Design</li>
           <li>MERN stack</li>
-          <li>Remote working</li>
+          <li>RESTful APIs</li>
           <li>Pair programming</li>
           <li>Continuous Integration & Deployment</li>
           <li>Git workflow</li>
           <li>Code review</li>
-          <li>RESTful APIs</li>
+          <li>Get code visibility</li>
+          <li>Remote working</li>
         </ul>
       </td>
     </tr>
