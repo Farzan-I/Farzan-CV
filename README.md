@@ -1,6 +1,5 @@
-<div align="center">
-
 # Farzan Imanzadeh
+<div align="center">
 
 ### Contents
 
