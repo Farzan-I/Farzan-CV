@@ -27,8 +27,8 @@ Graduating from [London Metropolitan University](#london-metropolitan-university
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td style = "vertical-align: top">
+    <tr VALIGN=TOP>
+      <td>
         <ul>
           <li>JavaScript</li>
           <li>Ruby</li>
@@ -36,10 +36,9 @@ Graduating from [London Metropolitan University](#london-metropolitan-university
           <li>CSS3</li>
         </ul>
       </td>
-      <td style="vertical-align: top">
+      <td>
         <ul>
           <li>Node.js</li>
-          <li>IRB</li>
           <li>React</li>
           <li>Express</li>
           <li>MongoDB</li>
@@ -48,18 +47,17 @@ Graduating from [London Metropolitan University](#london-metropolitan-university
           <li>Git</li>
         </ul>
       </td>
-      <td style="vertical-align: top">
+      <td>
         <ul>
           <li>Jest</li>
-          <li>Enzyme</li>
-          <li>React Testing Library</li>
           <li>Cypress</li>
+          <li>IRB</li>
           <li>Rspec</li>
           <li>Sinatra</li>
           <li>Capybara</li>
         </ul>
       </td>
-      <td style="vertical-align: top">
+      <td>
         <ul>
           <li>XP/Agile methodology</li>
           <li>TDD/BDD</li>
@@ -83,38 +81,37 @@ Graduating from [London Metropolitan University](#london-metropolitan-university
 | Name     |Group/Alone  | Description | Technologies|
 |---       |---          |---          |---          |
 | **Final project** | Group | A webapp to do x. | React, Jest, etc.|
-| [Acebook](https://github.com/Farzan-I/facebook-clone) | Group | A Facebook clone for which I learnt Node and Handbars in a week | Node.js, Express, Handblebars, HTML, CSS, Jest, Mongo, Cypress |
-| [Chuckle Hotel](https://github.com/Farzan-I/airbnb-clone.git)| Group | Made an AirBnB clone. Learnt PostgreSQL in a day | Ruby, Rspec, Sinatra, Capybara, CSS, HTML, PostgreSQL |
-|[Rock, Paper, Scissors](https://github.com/Farzan-I/Rock-Paper-Scissors) | Alone | Local web based rock, paper, scissors game | Ruby, Rspec, Sinatra, Capybara, CSS, HTML |
+| [Acebook](https://github.com/Farzan-I/facebook-clone) | Group | A Facebook clone for which I learnt Node and Handbars in a week | JavaScript, Node.js, Express, Handblebars, HTML5, CSS3, Jest, Mongo, Cypress |
+| [Chuckle Hotel](https://github.com/Farzan-I/airbnb-clone.git)| Group | Made an AirBnB clone. Learnt PostgreSQL in a day | Ruby, Rspec, Sinatra, Capybara, CSS3, HTML5, PostgreSQL |
+|[Rock, Paper, Scissors](https://github.com/Farzan-I/Rock-Paper-Scissors) | Alone | Local web based rock, paper, scissors game | Ruby, Rspec, Sinatra, Capybara, CSS3, HTML5 |
 |[Student Directory](https://github.com/Farzan-I/student-directory) | Alone | A command line, interactive student directory that loads & saves student information | Ruby, git, Rspec |
 |[Pointless Quest Terminal Game](https://github.com/Farzan-I/pointless-quest-game) | Alone | A command line, interactive terminal game made while trying to teach myself Ruby | Ruby, git |
-|[Cultural Signatures Website](https://www.culturalsignatures.com/) | Alone | Website for my previous employer. Built with no prior coding knowledge | Node.js, Express, jest, CSS, HTML |
+|[Cultural Signatures Website](https://www.culturalsignatures.com/) | Alone | Website for my previous employer. Built with no prior coding knowledge | JavaScript, Node.js, Express, jest, CSS3, HTML5 |
 
 ## Skills
 
 ### Excellent Communicator
 
-During my time at [deVere Group](#devere-acuma-devere-group-may-2016-to-nov-2016), I wrote and distributed client quarterly reports as well as providing them with regular weekly updates on their investments. This constant communication put a client's mind at ease, which built trust and better rapport, turning a client to a customer for life. While at [Enterprise Rent-A-Car](#enterprise-rent-a-car-nov-2014-to-dec-2015), I was pinpointed for providing clarity on many issues customers faced (corporate and public). This was achieved by providing a clear breakdown of the invoice even before a customer drove away. This skill has been put into practice during my time at Makers and perfected as I have provided cohesion and direction on the various teams I was in. My written communication skills have been rehearsed in my [blogs](https://medium.com/@farzanimanzadeh), as well as the README's for my [projects](#projects).
+During my time at [deVere Group](#devere-acuma-devere-group-may-2016-to-nov-2016), I wrote and distributed client quarterly reports, while providing regular weekly updates on their investments. This constant update put a client's mind at ease, building trust and rapport, creating a customer for life. While at [Enterprise Rent-A-Car](#enterprise-rent-a-car-nov-2014-to-dec-2015), providing clarity on many issues clients faced was my fortay. Achieved this by providing a clear breakdown of costs to eleviate any concerns they may have. Providing cohesion and direction in the various Makers projects I have been in highlights my communication skills. My written communication skills have been rehearsed in my [blogs](https://medium.com/@farzanimanzadeh), as well as the README's in various [projects](#projects).
 
 ### Natural leader
 
-By achieving a First Class degree in [Business Management](#london-metropolitan-university-sep-2010-to-jul-2014), I applied my understanding of being a better leader while working at Pizza Express as a manager. This allowed me to demonstrate my learnings instantly and see the benefits of being a leader as opposed to a boss. Organically being put forward for project manager on various group works, I ensured a cohesive and productive working environment by making sure every team member was heard and have made contributions towards the project. This meant better morale, a safe place to learn and above all, everyone believing they are a better software developer than they were yesterday. In 2011/2012, I captained Aslan FC to their [first ever league title](#hobbies-and-interests), in their first ever year in the competition. This reaffirmed my competitive nature as well as my leadership skills.
+Studying towards a First Class degree in [Business Management](#london-metropolitan-university-sep-2010-to-jul-2014), I applied my learnings while working at [Pizza Express](#pizza-express-dec-2010-to-oct-2014) as a manager. This allowed me to demonstrate my understandings and see the benefits of being a leader as opposed to a boss. As a project manager on various group works, I ensured a cohesive and productive working environment by making sure every team member was heard and made contributions towards the project. This meant better morale, a safe place to learn and above all, everyone believing they are a better software developer than they were yesterday. In 2011/2012, I captained Aslan FC to their [first ever league title](#hobbies-and-interests), in their first ever year in the competition. This reaffirmed my competitive nature as well as my leadership skills.
 
 ### Thrives under pressure
-From having to organise an end-of-year prom during my final year of secondary school, where the bulk of the organisation coincided with completing GCSE exams, to completing group [projects](#projects), I have always thrived when working under pressure. It is my strong organisational and time management skills that I have developed over time that allows me to do this. While working in AXM London, deadlines came quick and fast. My adaptive nature allowed me to persevere and complete transactions no matter what I faced. These, coupled with my competitive nature, allow me to work effectively when also under a time constraint.
+From having to organise an end-of-year prom during my final year of [secondary school](#st-georges-roman-catholic-school-feb-2003-to-jul-2008), where all of the planning coincided with completing GCSE exams, to completing group [projects](#projects), I have always thrived when working under pressure. It is my strong organisational and time management skills that I have developed over time that allows me to do this. While working in [AXM London](#axm-london-property-services-dec-2017-to-nov-2018), deadlines were abrupt. My adaptive nature allowed me to persevere and complete transactions no matter what I faced. These, coupled with my competitive nature, allow me to work effectively when under a time constraint.
 
 ### Fast learner
-I earned a full-time offer from deVere Group by impressing my line and regional manager with how quickly I picked up an understanding of the various financial products that the team used and sold to clients. Despite having a business management background, I was told only 1 out of 200 candidates would pass the rigorous job screening. For our [Acebook project](https://github.com/Farzan-I/acebook), I learnt Node.js and Express independently in a week and used it to build a fully-functioning Facebook style website. I solely built the website for my previous employer, [Cultural Signatures](#cultural-signatures-mar-2020-to-nov-2020) with no prior coding knowledge. Looking back on it, I can vastly improve every aspect of the website comfortably and showcases what I can achieve within a week.
+Earned a full-time offer from [deVere Group](#devere-acuma-devere-group-may-2016-to-nov-2016) by impressing the regional manager with how quickly I picked up an understanding of the various financial products that the team used and sold to clients. I was told only 1 out of 200 candidates would pass the rigorous job screening. For our [Acebook project](https://github.com/Farzan-I/acebook), I learnt Node.js and Express independently in a week and used it to build a fully-functioning [Facebook style website](https://lacebook.herokuapp.com/). I solely built the website for my previous employer in a week ([Cultural Signatures](#cultural-signatures-mar-2020-to-nov-2020)) with no prior coding knowledge. Looking back, I can vastly improve every aspect of the website comfortably having learnt more skills at Makers.
 
 ### Shrewd negotiater
-In my role at [AXM London](#axm-london-property-services-dec-2017-to-nov-2018), I negotiated deals that had the tenant, landlord as well as my company's best interests at heart. This was done by assessing the situation from all perspectives, seeing what needs have to be fulfilled and what can be compromised. Achieving the highest lettings figures for the company within 6 months underlined my effective negotiating skills. Amongst large competitors such as Knight Frank and Savills, I was highly recognised for taking their properties off the market and doing 'split deals' with them. This led to being offered roles in these companies as well as other estate agencies. Within Enterprise Rent-A-Car, I finished in the top 25 sales people of South-west England three times in a year. This was achieved by upselling various products such as fully comprehensive insurance on vehicles and/or upgrading a customer to another vehicle class. While at deVere Group, I turned cold leads to clients for life by communicating the added value of being in a tax free country (United Arab Emirates) and providing products that were tailor made for every client. This meant I had an active pipeline of deals flowing and in turn generated more revenue.
+In my role at [AXM London](#axm-london-property-services-dec-2017-to-nov-2018), I negotiated deals that had the tenant, landlord and my company's interests at heart. This was done by assessing the situation from all perspectives, judging which needs have to be fulfilled and which could be compromised. Achieving the highest lettings figures for the company within 6 months underlined my negotiating skills. At [Enterprise Rent-A-Car](#enterprise-rent-a-car-nov-2014-to-dec-2015), I finished in the top 25 sales people of South-west England three times in a year. This was achieved by upselling various products such as fully comprehensive insurance on vehicles or upgrading a customer's vehicle class. While at [deVere Group](#devere-acuma-devere-group-may-2016-to-nov-2016), I turned cold leads to customers for life by expressing the benefits of a tax free country (United Arab Emirates) and providing products that were tailor made for each client.
 
 ### Exceptional customer service
-In a competitive industry, it helps to get noticed. One way to do so is treat every client as if it is your first and last. This meant word of mouth referrals from clients while I was at deVere Group and AXM London. While I was at Enterprise Rent-A-Car, I received glowing feedback, three comemorative 'E pins' and over 90% completely satisfied customers for 9 out of the 12 months I was at the specified branch, St John's Wood.
+In a competitive industry, it helps to get noticed. One way to do so is treat every client as if it is your first and last. Doing this meant word of mouth referrals from clients while at [deVere Group](#devere-acuma-devere-group-may-2016-to-nov-2016), [AXM London](#axm-london-property-services-dec-2017-to-nov-2018) and [Cultural Signatures](#cultural-signatures-mar-2020-to-nov-2020) and [Language Empire](#language-empire-jan-2021-to-dec-2021). While I was at [Enterprise Rent-A-Car](#enterprise-rent-a-car-nov-2014-to-dec-2015), I received glowing feedback, three comemorative 'E pins' and over 90% completely satisfied customers for 9 out of the 12 months I was at the specified branch, St John's Wood.n
 
-### Additional skills
-- Methodologies : Agile, XP, Test Driven Development
-- Foreign languages : Spanish (basic), Farsi (fluent)
+### Additional skill
+**Languages**: English *(native)*, Farsi *(fluent)*, Spanish *(basic)*
 
 ## Experience
 ### Language Empire (Jan 2021 to Dec 2021)<br>
@@ -125,7 +122,7 @@ In a competitive industry, it helps to get noticed. One way to do so is treat ev
 
 ### Cultural Signatures (Mar 2020 to Nov 2020)<br>
 **Marketing Executive**
-- Oversaw revamp of [website](https://www.culturalsignatures.com) and implemented HTML, CSS and Javascript tools 
+- Oversaw revamp of company [website](https://www.culturalsignatures.com) and implemented HTML5, CSS3 and Javascript tools 
 - Created awareness of upcoming events through several media outlets i.e. Instagram/Facebook
 - Sourcing and securing sponsorship, leading to charitable donations to several life-threatening diseases such as multiple sclerosis
 - Preparing weekly/monthly reports for management to aid tracking of marketing performance
@@ -135,7 +132,7 @@ In a competitive industry, it helps to get noticed. One way to do so is treat ev
 - Instigated a new customer experience through technology (iPad bolted to the counter to check allergens and ingredients of products)
 - Management of high profile store in heart of London (Argyll Street, Oxford Circus)
 - Banking, supplies ordering and accounting reconciliation duties as well as opening and closing of the store
-- Training new team members regarding customer service in line with Pret standards
+- Trained new team members regarding customer service in line with Pret standards
 
 ### AXM London Property Services (Dec 2017 to Nov 2018)<br>
 **Senior Lettings Negotiator**
@@ -160,6 +157,14 @@ In a competitive industry, it helps to get noticed. One way to do so is treat ev
 - Over 90% completely satisfied clients (public and corporate) within one year
 - Awarded prestigious 'E pin' for three separate quarters to recognise level of service to customers
 - Increased revenue by generating new streams through corporate clients, networking and word-of-mouth
+
+### Pizza Express (Dec 2010 to Oct 2014)<br>
+**Manager on duty**
+- Brought cohesion and stability to a disorganised workforce, raising the store into top 25 of the company
+- Manager of one of the largest restaurants in the heart of London (Royal Festival Hall, Waterloo)
+- Raised standards to break previous records for revenue, profits and customer feedback
+- Banking, supplies ordering and accounting reconciliation duties as well as opening and closing of the store
+- Trained new team members regarding customer service in line with Pizza Express standards
 
 ## Education
 ### Makers Academy (Mar 2022 to Jul 2022)<br>
