@@ -16,14 +16,73 @@ Detail orientated 30 year old professional, current [Makers Academy](https://mak
 Graduating from [London Metropolitan University](#london-metropolitan-university-sep-2010-to-jul-2014) with a first class degree in Business Management, I spent a year working for [Enterprise Rent-A-Car](#enterprise-rent-a-car-nov-2014-to-dec-2015) through their graduate scheme. Here I encountered the IBM software Ralph that started my fascination for software development. I spent 6 months in Dubai working as a [wealth advisor](#devere-acuma-devere-group-may-2016-to-nov-2016) before I came back to the UK and had roles as a senior lettings negotiator at [AXM London](#axm-london-property-services-dec-2017-to-nov-2018), moving onto a supervisor role in Pret A Manger. I was also a [marketing executive](#cultural-signatures-mar-2020-to-nov-2020) for a period where I sculpted the [company's website](https://www.culturalsignatures.com) with no prior coding experience. I have spent the last 8 months learning how to code and 4 of which have been with Makers Academy bootcamp.
 
 ## Tech skills
-Ruby, JavaScript, HTML, CSS, Sinatra, Rspec, Capybara, Node.js, IRB, PostreSQL, Handlebars, Jest, Express, Mongo
+
+<table>
+  <thead>
+    <tr>
+      <th>Languages</th>
+      <th>Technologies</th>
+      <th>Testing Frameworks</th>
+      <th>Concepts</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="vertical-align: top">
+        <ul>
+          <li>JavaScript</li>
+          <li>Ruby</li>
+          <li>HTML5</li>
+          <li>CSS3</li>
+        </ul>
+      </td>
+      <td style="vertical-align: top">
+        <ul>
+          <li>Node.js</li>
+          <li>IRB</li>
+          <li>React</li>
+          <li>Express</li>
+          <li>MongoDB</li>
+          <li>PostgreSQL</li>
+          <li>Handlebars</li>
+          <li>Git</li>
+        </ul>
+      </td>
+      <td style="vertical-align: top">
+        <ul>
+          <li>Jest</li>
+          <li>Enzyme</li>
+          <li>React Testing Library</li>
+          <li>Cypress</li>
+          <li>Rspec</li>
+          <li>Sinatra</li>
+          <li>Capybara</li>
+        </ul>
+      </td>
+      <td style="vertical-align: top">
+        <ul>
+          <li>XP/Agile methodology</li>
+          <li>TDD/BDD</li>
+          <li>Object Oriented Design</li>
+          <li>MERN stack</li>
+          <li>Remote working</li>
+          <li>Pair programming</li>
+          <li>Continuous Integration & Deployment</li>
+          <li>Git workflow</li>
+          <li>Code review</li>
+          <li>RESTful APIs</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## Projects
 
 | Name     |Group/Alone  | Description | Technologies|
 |---       |---          |---          |---          |
 | **Final project** | Group | A webapp to do x. | React, Jest, etc.|
-| [Acebook](https://github.com/Farzan-I/facebook-clone) | Group | A Facebook clone for which I learnt Node and Handbars in a week | Node.js, Express, Handblebars, HTML, CSS, Jest, Mongo |
+| [Acebook](https://github.com/Farzan-I/facebook-clone) | Group | A Facebook clone for which I learnt Node and Handbars in a week | Node.js, Express, Handblebars, HTML, CSS, Jest, Mongo, Cypress |
 | [Chuckle Hotel](https://github.com/Farzan-I/airbnb-clone.git)| Group | Made an AirBnB clone. Learnt PostgreSQL in a day | Ruby, Rspec, Sinatra, Capybara, CSS, HTML, PostgreSQL |
 |[Rock, Paper, Scissors](https://github.com/Farzan-I/Rock-Paper-Scissors) | Alone | Local web based rock, paper, scissors game | Ruby, Rspec, Sinatra, Capybara, CSS, HTML |
 |[Student Directory](https://github.com/Farzan-I/student-directory) | Alone | A command line, interactive student directory that loads & saves student information | Ruby, git, Rspec |
