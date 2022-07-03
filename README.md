@@ -28,7 +28,7 @@ Graduating from [London Metropolitan University](#london-metropolitan-university
   </thead>
   <tbody>
     <tr>
-      <td style="vertical-align: top">
+      <td style = "vertical-align: top">
         <ul>
           <li>JavaScript</li>
           <li>Ruby</li>
