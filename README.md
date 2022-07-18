@@ -11,9 +11,9 @@
 [![LinkedIn]](https://www.linkedin.com/in/farzan-imanzadeh-079a95a3/) | [![Blog]](https://medium.com/@farzanimanzadeh) | [![CodeWars Profile]](https://www.codewars.com/users/fazzy15)
 </div>
 
-Detail orientated 30 year old professional, current [Makers Academy](https://makers.tech/) student (April '22 intake). Learnt the fundamentals of the command line, perfecting the use of git alongside completing Ruby and JavaScript projects using an extensive list of technological tools, while implementing agile methodologies.
+Detail orientated 30 year old professional, recent [Makers Academy](https://makers.tech/) graduate (April '22 - July '22). Learnt the fundamentals of the command line, perfecting the use of git alongside completing Ruby, JavaScript (MERN/MEHN) projects using an extensive list of technological tools, while implementing agile methodologies.
 
-Graduating from [London Metropolitan University](#london-metropolitan-university-sep-2010-to-jul-2014) with a first class degree in Business Management, I spent a year working for [Enterprise Rent-A-Car](#enterprise-rent-a-car-nov-2014-to-dec-2015) through their graduate scheme. Here I encountered the IBM software Ralph that started my fascination for software development. I spent 6 months in Dubai working as a [wealth advisor](#devere-acuma-devere-group-may-2016-to-nov-2016) before I came back to the UK and had roles as a senior lettings negotiator at [AXM London](#axm-london-property-services-dec-2017-to-nov-2018), moving onto a supervisor role in Pret A Manger. I was also a [marketing executive](#cultural-signatures-mar-2020-to-nov-2020) for a period where I sculpted the [company's website](https://www.culturalsignatures.com) with no prior coding experience. I have spent the last 8 months learning how to code and 4 of which have been with Makers Academy bootcamp.
+Graduating from [London Metropolitan University](#london-metropolitan-university-sep-2010-to-jul-2014) with a first class degree in Business Management, I spent a year working for [Enterprise Rent-A-Car](#enterprise-rent-a-car-nov-2014-to-dec-2015) on their graduate scheme. Here, I encountered the IBM software Ralph that started my fascination for software development. I spent 6 months in Dubai working as a [wealth advisor](#devere-acuma-devere-group-may-2016-to-nov-2016) before I came back to the UK and had roles as a senior lettings negotiator at [AXM London](#axm-london-property-services-dec-2017-to-nov-2018), moving onto a supervisor role in [Pret A Manger](#pret-a-manger-dec-2018-to-aug-2019). I was also a [marketing executive](#cultural-signatures-mar-2020-to-nov-2020) for a period where I sculpted the [company's website](https://www.culturalsignatures.com) with no prior coding experience. I have spent the last 8 months learning how to code and 4 of which have been with Makers Academy bootcamp.
 
 ## Tech skills
 
@@ -40,6 +40,7 @@ Graduating from [London Metropolitan University](#london-metropolitan-university
         <ul>
           <li>Node.js</li>
           <li>React</li>
+          <li>Redux</li>
           <li>Express</li>
           <li>MongoDB</li>
           <li>PostgreSQL</li>
@@ -80,13 +81,15 @@ Graduating from [London Metropolitan University](#london-metropolitan-university
 
 | Name     |Group/Alone  | Description | Technologies|
 |---       |---          |---          |---          |
-| **Final project** | Group | A webapp to do x. | React, Jest, etc.|
+| [Brains On Brioche]() | Group | A webapp to generate recipes with the entered ingredients. Learnt MERN stack in a week | MERN stack (MongoDB, Express, React, Node.js), Redux, CSS3, HTML5, Cypress, Axios, Jest, Spoonacular API |
 | [Acebook](https://github.com/Farzan-I/facebook-clone) | Group | A Facebook clone for which I learnt Node and Handbars in a week | JavaScript, Node.js, Express, Handblebars, HTML5, CSS3, Jest, Mongo, Cypress |
 | [Chuckle Hotel](https://github.com/Farzan-I/airbnb-clone.git)| Group | Made an AirBnB clone. Learnt PostgreSQL in a day | Ruby, Rspec, Sinatra, Capybara, CSS3, HTML5, PostgreSQL |
+|[Cultural Signatures Website](https://www.culturalsignatures.com/) | Alone | Website for my previous employer. Built with no prior coding knowledge | JavaScript, Node.js, Express, jest, CSS3, HTML5 |
+|[Pointless Quest Terminal Game](https://github.com/Farzan-I/pointless-quest-game) | Alone | A command line, interactive terminal game made while trying to teach myself Ruby | Ruby, git |
 |[Rock, Paper, Scissors](https://github.com/Farzan-I/Rock-Paper-Scissors) | Alone | Local web based rock, paper, scissors game | Ruby, Rspec, Sinatra, Capybara, CSS3, HTML5 |
 |[Student Directory](https://github.com/Farzan-I/student-directory) | Alone | A command line, interactive student directory that loads & saves student information | Ruby, git, Rspec |
-|[Pointless Quest Terminal Game](https://github.com/Farzan-I/pointless-quest-game) | Alone | A command line, interactive terminal game made while trying to teach myself Ruby | Ruby, git |
-|[Cultural Signatures Website](https://www.culturalsignatures.com/) | Alone | Website for my previous employer. Built with no prior coding knowledge | JavaScript, Node.js, Express, jest, CSS3, HTML5 |
+
+
 
 ## Skills
 
@@ -102,7 +105,7 @@ Studying towards a First Class degree in [Business Management](#london-metropoli
 From having to organise an end-of-year prom during my final year of [secondary school](#st-georges-roman-catholic-school-feb-2003-to-jul-2008), where all of the planning coincided with completing GCSE exams, to completing group [projects](#projects), I have always thrived when working under pressure. It is my strong organisational and time management skills that I have developed over time that allows me to do this. While working in [AXM London](#axm-london-property-services-dec-2017-to-nov-2018), deadlines were abrupt. My adaptive nature allowed me to persevere and complete transactions no matter what I faced. These, coupled with my competitive nature, allow me to work effectively when under a time constraint.
 
 ### Fast learner
-Earned a full-time offer from [deVere Group](#devere-acuma-devere-group-may-2016-to-nov-2016) by impressing the regional manager with how quickly I picked up an understanding of the various financial products that the team used and sold to clients. I was told only 1 out of 200 candidates would pass the rigorous job screening. For our [Acebook project](https://github.com/Farzan-I/acebook), I learnt Node.js and Express independently in a week and used it to build a fully-functioning [Facebook style website](https://lacebook.herokuapp.com/). I solely built the website for my previous employer in a week ([Cultural Signatures](#cultural-signatures-mar-2020-to-nov-2020)) with no prior coding knowledge. Looking back, I can vastly improve every aspect of the website comfortably having learnt more skills at Makers.
+Learnt the MERN stack in a week to create the final project of my [Makers course](#projects). I earned a full-time offer from [deVere Group](#devere-acuma-devere-group-may-2016-to-nov-2016) by impressing the regional manager with how quickly I picked up an understanding of the various financial products that the team used and sold to clients. I was told only 1 out of 200 candidates would pass the rigorous job screening. For our [Acebook project](https://github.com/Farzan-I/acebook), I learnt Node.js and Express independently in a week and used it to build a fully-functioning [Facebook style website](https://lacebook.herokuapp.com/). I solely built the website for my previous employer in a week ([Cultural Signatures](#cultural-signatures-mar-2020-to-nov-2020)) with no prior coding knowledge. Looking back, I can vastly improve every aspect of the website comfortably having learnt more skills at Makers.
 
 ### Shrewd negotiater
 In my role at [AXM London](#axm-london-property-services-dec-2017-to-nov-2018), I negotiated deals that had the tenant, landlord and my company's interests at heart. This was done by assessing the situation from all perspectives, judging which needs have to be fulfilled and which could be compromised. Achieving the highest lettings figures for the company within 6 months underlined my negotiating skills. At [Enterprise Rent-A-Car](#enterprise-rent-a-car-nov-2014-to-dec-2015), I finished in the top 25 sales people of South-west England three times in a year. This was achieved by upselling various products such as fully comprehensive insurance on vehicles or upgrading a customer's vehicle class. While at [deVere Group](#devere-acuma-devere-group-may-2016-to-nov-2016), I turned cold leads to customers for life by expressing the benefits of a tax free country (United Arab Emirates) and providing products that were tailor made for each client.
