@@ -87,10 +87,6 @@ Graduating from [London Metropolitan University](#london-metropolitan-university
 |[Cultural Signatures Website](https://www.culturalsignatures.com/) | Alone | Website for my previous employer. Built with no prior coding knowledge | JavaScript, Node.js, Express, jest, CSS3, HTML5 |
 | [Simple Banking App](https://github.com/Farzan-I/bank-tech-test) | Alone | A simple banking app made during the Makers course to mimick a tech test | Ruby, Rspec, Rubocop | 
 |[Pointless Quest Terminal Game](https://github.com/Farzan-I/pointless-quest-game) | Alone | A command line, interactive terminal game made while trying to teach myself Ruby | Ruby, git |
-|[Rock, Paper, Scissors](https://github.com/Farzan-I/Rock-Paper-Scissors) | Alone | Local web based rock, paper, scissors game | Ruby, Rspec, Sinatra, Capybara, Rubocop, CSS3, HTML5 |
-|[Student Directory](https://github.com/Farzan-I/student-directory) | Alone | A command line, interactive student directory that loads & saves student information | Ruby, git, Rspec |
-
-
 
 ## Skills
 
