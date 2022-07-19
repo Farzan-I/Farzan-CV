@@ -200,7 +200,6 @@ In a competitive industry, it helps to get noticed. One way to do so is treat ev
 - **Cooking**: love to make a variety of cuisines from around the world (chili con carne connoisseur)
 - **Bouldering**: found peace in this art, it pushes my boundaries and appeals to my competitive spirit
 - **Gaming**: avid fan of video and board games (keen to try all of them!)
-- **Music**: attend concerts and festivals on a semi-regular basis (when I can get tickets)
 - **Karting**: practice Mario Kart in real life on a semi-regular basis, just without the shells or banana peels
 - **Donate blood**: regularly donate blood (every 3-6 months) to help those that may need it
 
