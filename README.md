@@ -13,7 +13,7 @@
 
 Detail orientated professional, recent [Makers Academy](https://makers.tech/) graduate (April '22 - July '22). Learnt the fundamentals of the command line, perfecting the use of git alongside completing Ruby, JavaScript (MERN/MEHN) projects using an extensive list of technological tools, while implementing agile methodologies.
 
-As a [marketing executive](#cultural-signatures-mar-2020-to-nov-2020), I sculpted the [company's website](https://www.culturalsignatures.com) with no prior coding experience. This gave me a great insight and thirst for software engineering. Graduating from [London Metropolitan University](#london-metropolitan-university-sep-2010-to-jul-2014) with a first class degree in Business Management, I spent a year working for [Enterprise Rent-A-Car](#enterprise-rent-a-car-nov-2014-to-dec-2015-management-trainee) on their graduate scheme. Here, I encountered the IBM software Ralph that started my fascination for software development. I spent 6 months in Dubai working as a [wealth advisor](#devere-acuma-devere-group-may-2016-to-nov-2016) before I came back to the UK and had cutomer facing roles as a senior lettings negotiator at [AXM London](#axm-london-property-services-dec-2017-to-nov-2018), moving onto a supervisor role in [Pret A Manger](#pret-a-manger-dec-2018-to-aug-2019) before becoming a language translator for [Language Empire](language-empire-jan-2021-to-dec-2021). I have spent the last 18 months learning how to code, 4 of which have been with Makers Academy bootcamp.
+As a [marketing executive](#cultural-signatures-mar-2020-to-nov-2020), I sculpted the [company's website](https://www.culturalsignatures.com) with no prior coding experience. This gave me a great insight and thirst for software engineering. Graduating from [London Metropolitan University](#london-metropolitan-university-sep-2010-to-jul-2014) with a first class degree in Business Management, I spent a year working for [Enterprise Rent-A-Car](#enterprise-rent-a-car-nov-2014-to-dec-2015-management-trainee) on their graduate scheme. Here, I encountered the IBM software Ralph that started my fascination for software development. I spent 6 months in Dubai working as a [wealth advisor](#devere-acuma-devere-group-may-2016-to-nov-2016) before I came back to the UK and had cutomer facing roles as a senior lettings negotiator at [AXM London](#axm-london-property-services-dec-2017-to-nov-2018), moving onto a supervisor role in [Pret A Manger](#pret-a-manger-dec-2018-to-aug-2019) before becoming a language translator for [Language Empire](language-empire-jan-2021-to-dec-2021). I have spent the last 18 months learning how to code, 4 of which have been with [Makers Academy bootcamp](#makers-academy-mar-2022-to-jul-2022).
 
 ## Projects
 
@@ -35,10 +35,10 @@ As a [marketing executive](#cultural-signatures-mar-2020-to-nov-2020), I sculpte
 * [Pair programming](https://www.techtarget.com/searchsoftwarequality/definition/Pair-programming#:~:text=Pair%20programming%20is%20an%20Agile,code%20and%20test%20user%20stories.)
 * [Mobbing](https://www.agilealliance.org/glossary/mob-programming/#q=~(infinite~true~filters~(postType~(~'page~'post~'aa_book~'aa_event_session~'aa_experience_report~'aa_glossary~'aa_research_paper~'aa_video)~tags~(~'mob*20programming))~searchTerm~'~sort~false~sortDirection~'asc~page~1))
 * [Continuous Integration & Deployment](https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment#:~:text=CI%20stands%20for%20continuous%20integration,continuous%20delivery%20or%20continuous%20deployment.)
-* [Git workflow](https://www.atlassian.com/git/tutorials/comparing-workflows)
+* [Git workflow](https://www.atlassian.com/git/tutorials/comparing-workflows) ✅
 * [Code review](https://about.gitlab.com/topics/version-control/what-is-code-review/#:~:text=Code%20reviews%20are%20methodical%20assessments,code%20from%20shipping%20to%20customers.)
 * [Print statement debugging](https://totalview.io/blog/print-statement-debugging#:~:text=What%20Is%20Print%20Statement%20Debugging,diagnose%20issues%20within%20the%20program.)
-* [Remote working](https://www.remoteyear.com/blog/what-is-remote-work)
+* [Remote working](https://www.remoteyear.com/blog/what-is-remote-work) ✅
 
 ## Skills
 
@@ -50,12 +50,13 @@ As a [marketing executive](#cultural-signatures-mar-2020-to-nov-2020), I sculpte
 
 ### Natural leader
 
-* As a project manager on various group [tasks](#projects), I ensured a cohesive and productive working environment by making sure every team member was heard and had contributions towards the project. By leading the way in stand-ups and retros, a safe place to learn and bring up any issues was instilled, which meant better morale and above all, no issue left to boil over, resulting in less conflicts and more production
+* As project manager on various group [projects](#projects) at [Makers](#makers-academy-mar-2022-to-jul-2022), I ensured a cohesive and productive working environment. This was achieved by constantly checking in with members and mobbing various blockers to ensure every member understands each piece of code to empower them to work independently afterwards
+* Leading the way in terms of making sure every team member was heard and had contributions towards the project meant leading the way in stand-ups and retros, a safe place to learn and bring up any issues was instilled, which meant better high morale and above all, no issue left to boil over, resulting in less conflicts and more production. This meant we 
 * In 2011/2012, I captained Aslan FC to their [first ever league title](#hobbies-and-interests), in their first ever year in the competition. This reaffirmed my competitive nature as well as my leadership skills
 
 ### Thrives under pressure
 
-* By using agile methodologies, specifically extreme programming, I completed my final group [project](#projects) under time constraints. By implementing this work flow, we were able to break the app down into sizable chunks that every member of the group could carry out as a pair or solo. This meant more of the work was achieved in half the time using [Trello](https://trello.com/en) and [Miro](https://miro.com/) boards to aide this. As a result, we were able to implement an [app](https://github.com/Farzan-I/brains-on-brioche) that received great feedback for its originality and functionality
+* By using agile methodologies, specifically extreme programming, I completed my final group [project](#projects) under time constraints and a team member contracting Covid-19. By implementing this work flow, we were able to break the app down into sizable chunks that every member of the group could carry out as a pair or solo, on site or remote. This meant more of the work was achieved in half the time using [Trello](https://trello.com/en) and [Miro](https://miro.com/) boards to aide this and keep the progress updated using these tools to know at what stage everyone is at. As a result, we were able to implement an [app](https://github.com/Farzan-I/brains-on-brioche) that received great feedback for its originality and functionality
 * While working in [AXM London](#axm-london-property-services-dec-2017-to-nov-2018), deadlines were abrupt. My adaptive nature allowed me to persevere and complete transactions no matter what I faced. These, coupled with my competitive nature, allow me to work effectively when under a time constraint
 
 ### Fast learner
