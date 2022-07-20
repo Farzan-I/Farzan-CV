@@ -45,7 +45,10 @@ As a [marketing executive](#cultural-signatures-mar-2020-to-nov-2020), I sculpte
 ### Excellent Communicator
 
 * While at [deVere Group](#devere-acuma-devere-group-may-2016-to-nov-2016), I generated client quarterly reports and provided weekly updates on their investments. This put a client's mind at ease, built rapport during uncertain times and in turn created a customer for life
-* Providing direction and a clear outline of the task at hand in the various Makers [projects](#projects) I've been in demonstrates my ability to get my point across and translate it into production quality code
+* At [Makers](#makers-academy-mar-2022-to-jul-2022), I used pair programming on various tasks such as afternoon side projects and actual [group]() ENDPOINT
+
+
+Providing direction and a clear outline of the task at hand in the various Makers [projects](#projects) I've been in demonstrates my ability to get my point across and translate it into production quality code. This 
 * My written communication skills have been furthered in my [blogs](https://medium.com/@farzanimanzadeh), as well as the README's in my [projects](#projects)
 
 ### Natural leader
