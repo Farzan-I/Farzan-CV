@@ -4,7 +4,9 @@
 
 ### Contents
 
-[![projects](https://img.shields.io/badge/-Projects-33ff99)](#projects) | [![concepts](https://img.shields.io/badge/-Concepts-ed1b76)](#concepts) | [![skills](https://img.shields.io/badge/-Skills-33FF99)](#skills) | [![Experience](https://img.shields.io/badge/-Experience-ed1b76)](#experience) | [![Education](https://img.shields.io/badge/-Education-33FF99)](#education) | [![Hobbies and Interests](https://img.shields.io/badge/-Hobbies%20and%20interests-ed1b76)](#hobbies-and-interests)
+[![projects](https://img.shields.io/badge/-Projects-33ff99)](#projects) | [![skills](https://img.shields.io/badge/-Skills-33FF99)](#skills) | [![Experience](https://img.shields.io/badge/-Experience-ed1b76)](#experience) | [![Education](https://img.shields.io/badge/-Education-33FF99)](#education) | [![Hobbies and Interests](https://img.shields.io/badge/-Hobbies%20and%20interests-ed1b76)](#hobbies-and-interests)
+  
+  [![concepts](https://img.shields.io/badge/-Concepts-ed1b76)](#concepts)
 
 
 ### Contact/Links
