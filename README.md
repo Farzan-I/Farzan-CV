@@ -33,7 +33,7 @@ As a [marketing executive](#cultural-signatures-mar-2020-to-nov-2020), I sculpte
 * [Object Orientated Design](https://www.geeksforgeeks.org/oops-object-oriented-design/)
 * [RESTful APIs](https://aws.amazon.com/what-is/restful-api/#:~:text=RESTful%20API%20is%20an%20interface,applications%20to%20perform%20various%20tasks.)
 * [Pair programming](https://www.techtarget.com/searchsoftwarequality/definition/Pair-programming#:~:text=Pair%20programming%20is%20an%20Agile,code%20and%20test%20user%20stories.)
-* [Mobbing](https://www.agilealliance.org/glossary/mob-programming/#q=~(infinite~true~filters~(postType~(~'page~'post~'aa_book~'aa_event_session~'aa_experience_report~'aa_glossary~'aa_research_paper~'aa_video)~tags~(~'mob*20programming))~searchTerm~'~sort~false~sortDirection~'asc~page~1))
+* [Mobbing](https://www.agilealliance.org/glossary/mob-programming/#q=~(infinite~true~filters~(postType~(~'page~'post~'aa_book~'aa_event_session~'aa_experience_report~'aa_glossary~'aa_research_paper~'aa_video)~tags~(~'mob*20programming))~searchTerm~'~sort~false~sortDirection~'asc~page~1)) ✅
 * [Continuous Integration & Deployment](https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment#:~:text=CI%20stands%20for%20continuous%20integration,continuous%20delivery%20or%20continuous%20deployment.)
 * [Git workflow](https://www.atlassian.com/git/tutorials/comparing-workflows) ✅
 * [Code review](https://about.gitlab.com/topics/version-control/what-is-code-review/#:~:text=Code%20reviews%20are%20methodical%20assessments,code%20from%20shipping%20to%20customers.)
