@@ -53,8 +53,9 @@ As a [marketing executive](#cultural-signatures-mar-2020-to-nov-2020), I sculpte
 * Leading the way in terms of stand-ups and retros, I made sure every team member was heard and had contributions towards the project. During these times I created a safe place to ask questions and instilled an environment that members could bring up any issues/concerns. This was done by acknowledging each members strengths and weaknesses at the start of the projects and checking in on their progress. With these constant check ins, a better morale and productivity was felt, making for a happier team that had no unresolved issues, resulting in less conflicts and more production.
 * In 2011/2012, I captained Aslan FC to their [first ever league title](#hobbies-and-interests), in their first ever year in the competition. With a group of local footballers from ages of 15 - 38, we triumphed and made an unprecedented run to the league title. This reaffirmed my competitive nature as well as my leadership skills.
 
-* ENDPOINT
-* 
+
+
+ENDPOINT
 
 ### Thrives under pressure
 
