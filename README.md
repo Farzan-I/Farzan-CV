@@ -43,18 +43,18 @@ As a [marketing executive](#cultural-signatures-mar-2020-to-nov-2020), I sculpte
 
 ### Excellent Communicator
 
-* While at [deVere Group](#devere-acuma-devere-group-may-2016-to-nov-2016), many clients felt in the dark in regards to their investments. I provided quarterly reports, as well as weekly updates on their investments within two weeks of joining the team. This put a client's mind at ease, built rapport during uncertain times, created more transparency that led to more investment and in turn created a customer for life.
-* Coding can be a daunting feat, especially if there's no clarity. At [Makers](#makers-academy-mar-2022-to-jul-2022), I learnt how to use Trello and Miro boards effectively to build a better understanding of the features, objectives and direction that a project/task should go towards. This involved writing user stories to see the app from the client's perspective, creating tickets to keep track of progress and diagramming the sequence of the framework we would use. This resulted in coherence between the frontend, backend as well as the teams I was in to create some production quality [projects](#projects).
+* While at [deVere Group](#devere-acuma-devere-group-may-2016-to-nov-2016), many clients felt in the dark in regards to their investments. I provided quarterly reports as well as weekly updates on their investments within two weeks of joining the team. This put a client's mind at ease, built rapport during uncertain times, created more transparency that led to more investment and in turn created a customer for life.
+* Coding can be a daunting feat, especially if there's no clarity. At [Makers](#makers-academy-mar-2022-to-jul-2022), I learnt how to use Trello and Miro boards effectively to build a better understanding of the features, objectives and direction that a project/task should go towards. This involved writing user stories to see the app from the client's perspective, creating tickets to keep track of progress and diagramming the sequence of the framework we would use. This resulted in coherence between the frontend and backend teams I was in to create some production quality [projects](#projects).
 * My written communication skills have been furthered in my [blogs](https://medium.com/@farzanimanzadeh), as well as the README's in my [projects](#projects).
-
-* ENDPOINT
-* 
 
 ### Natural leader
 
-* As project manager on various group [projects](#projects) at [Makers](#makers-academy-mar-2022-to-jul-2022), I ensured a cohesive and productive working environment. This was achieved by constantly checking in with members and mobbing various blockers to ensure every member understands each piece of code to empower them to work independently afterwards
-* Leading the way in terms of making sure every team member was heard and had contributions towards the project meant leading the way in stand-ups and retros, a safe place to learn and bring up any issues was instilled, which meant better high morale and above all, no issue left to boil over, resulting in less conflicts and more production. This meant we 
-* In 2011/2012, I captained Aslan FC to their [first ever league title](#hobbies-and-interests), in their first ever year in the competition. This reaffirmed my competitive nature as well as my leadership skills
+* As project manager on various group [projects](#projects) at [Makers](#makers-academy-mar-2022-to-jul-2022), I ensured a cohesive and productive working environment. This was achieved by constantly checking in with members and mobbing various blockers to ensure every member understands each piece of code to empower them to work independently afterwards. This meant every member worked on a separate task and in turn churned out more features and a more complete app as a result.
+* Leading the way in terms of stand-ups and retros, I made sure every team member was heard and had contributions towards the project. During these times I created a safe place to ask questions and instilled an environment that members could bring up any issues/concerns. This was done by acknowledging each members strengths and weaknesses at the start of the projects and checking in on their progress. With these constant check ins, a better morale and productivity was felt, making for a happier team that had no unresolved issues, resulting in less conflicts and more production.
+* In 2011/2012, I captained Aslan FC to their [first ever league title](#hobbies-and-interests), in their first ever year in the competition. With a group of local footballers from ages of 15 - 38, we triumphed and made an unprecedented run to the league title. This reaffirmed my competitive nature as well as my leadership skills.
+
+* ENDPOINT
+* 
 
 ### Thrives under pressure
 
