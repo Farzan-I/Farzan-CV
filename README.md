@@ -18,8 +18,8 @@ As a [marketing executive](#cultural-signatures-mar-2020-to-nov-2020), I sculpte
 
 | Name     |Group/Solo  | Description | Technologies|
 |---       |---          |---          |---          |
-| [Brains On Brioche](https://github.com/Farzan-I/brains-on-brioche) | Group | **Final project for Makers**: A webapp to help create recipesusing an API with any ingredients to minimise food waste. Learnt MERN stack in a week | MERN stack (MongoDB, Express, React, Node.js), Redux, CSS3, HTML5, Cypress, Axios, Mongoose, Jest, Spoonacular API, Bcrypt, ESlint, Git |
-| [Acebook](https://github.com/Farzan-I/facebook-clone) | Group | A Facebook clone for which I learnt MEHN stack (MongoDB, Express, Handlebars and Node in a week | JavaScript, Node.js, Express, Handlebars, HTML5, CSS3, Jest, MongoDB, Mongoose, Cypress, Bcrypt, ESlint, Git |
+| [Brains On Brioche](https://github.com/Farzan-I/brains-on-brioche) | Group | **Final project for Makers**: A webapp to help create recipesusing an API with any ingredients to minimise food waste. Learnt MERN stack in a week | MERN stack (MongoDB, Express, React, Node.js), Redux, Axios, CSS3, HTML5, Cypress, Mongoose, Jest, Spoonacular API, Bcrypt, ESlint, Git |
+| [Acebook](https://github.com/Farzan-I/facebook-clone) | Group | A Facebook clone for which I learnt MEHN stack in a week | MEHN stack (MongoDB, Express, Handlebars and Node.js), HTML5, CSS3, Jest, Mongoose, Cypress, Bcrypt, ESlint, Git |
 | [Chuckle Hotel](https://github.com/Farzan-I/airbnb-clone.git)| Group | An AirBnB clone introducing me to agile methodologies and workflows | Ruby, Rspec, IRB, Sinatra, Capybara, CSS3, HTML5, PostgreSQL, Bcrypt, Git |
 |[Cultural Signatures Website](https://www.culturalsignatures.com/) | Solo | Website for my previous employer. Built with no prior coding knowledge | JavaScript, Node.js, Express, Jest, CSS3, HTML5 |
 | [Simple Banking App](https://github.com/Farzan-I/bank-tech-test) | Solo | A simple banking app made during the Makers course to mimick a tech test | Ruby, Rspec, IRB, Rubocop, Git | 
@@ -44,7 +44,7 @@ As a [marketing executive](#cultural-signatures-mar-2020-to-nov-2020), I sculpte
 ### Excellent Communicator
 
 * While at [deVere Group](#devere-acuma-devere-group-may-2016-to-nov-2016), many clients felt in the dark in regards to their investments. I provided quarterly reports to clients and provided weekly updates on their investments after two weeks of joining the team. This put a client's mind at ease, built rapport during uncertain times, increased our revenue as there was more transparency they wanted to invest more and in turn created a customer for life
-* Coding can be a daunting feat, especially if there's no clarity. At [Makers](#makers-academy-mar-2022-to-jul-2022), 
+* Coding can be a daunting feat, especially if there's no clarity. At [Makers](#makers-academy-mar-2022-to-jul-2022), I learnt how to use Trello and Miro boards to build a better understanding of the features, objectives and direction that a project/task should go down. This involved writing user stories to see the application from the client's perspective, 
 
 
 * ENDPOINT
