@@ -6,7 +6,7 @@
 
 [![Projects](https://img.shields.io/badge/-Projects-33ff99)](#projects) | [![skills](https://img.shields.io/badge/-Skills-ed1b76)](#skills) | [![Experience](https://img.shields.io/badge/-Experience-33ff99)](#experience) | [![Education](https://img.shields.io/badge/-Education-ed1b76)](#education) | [![Hobbies and Interests](https://img.shields.io/badge/-Hobbies%20and%20Interests-33ff99)](#hobbies-and-interests)
   
-  [![concepts](https://img.shields.io/badge/-Concepts-ed1b76)](#concepts)
+<!--   [![concepts](https://img.shields.io/badge/-Concepts-ed1b76)](#concepts) -->
 
 
 ### Contact/Links
@@ -21,9 +21,9 @@ As a [marketing executive](#cultural-signatures-mar-2020-to-nov-2020), I sculpte
 
 | Name     |Group/Solo  | Description | Technologies|
 |---       |---          |---          |---          |
-| [Brains On Brioche](https://github.com/Farzan-I/brains-on-brioche) | Group | Final project for Makers. A webapp to generate recipes with the entered ingredients. Learnt MERN stack in a week | MERN stack (MongoDB, Express, React, Node.js), Redux, CSS3, HTML5, Cypress, Axios, Mongoose, Jest, Spoonacular API, Bcrypt, ESlint, Git |
-| [Acebook](https://github.com/Farzan-I/facebook-clone) | Group | A Facebook clone for which I learnt Node and Handlebars in a week | JavaScript, Node.js, Express, Handlebars, HTML5, CSS3, Jest, MongoDB, Mongoose, Cypress, Bcrypt, ESlint, Git |
-| [Chuckle Hotel](https://github.com/Farzan-I/airbnb-clone.git)| Group | Made an AirBnB clone. Learnt PostgreSQL in a day | Ruby, Rspec, IRB, Sinatra, Capybara, CSS3, HTML5, PostgreSQL, Bcrypt, Git |
+| [Brains On Brioche](https://github.com/Farzan-I/brains-on-brioche) | Group | **Final project for Makers**: A webapp to help create recipesusing an API with any ingredients to minimise food waste. Learnt MERN stack in a week | MERN stack (MongoDB, Express, React, Node.js), Redux, CSS3, HTML5, Cypress, Axios, Mongoose, Jest, Spoonacular API, Bcrypt, ESlint, Git |
+| [Acebook](https://github.com/Farzan-I/facebook-clone) | Group | A Facebook clone for which I learnt MEHN stack (MongoDB, Express, Handlebars and Node in a week | JavaScript, Node.js, Express, Handlebars, HTML5, CSS3, Jest, MongoDB, Mongoose, Cypress, Bcrypt, ESlint, Git |
+| [Chuckle Hotel](https://github.com/Farzan-I/airbnb-clone.git)| Group | An AirBnB clone introducing me to agile methodologies and workflows | Ruby, Rspec, IRB, Sinatra, Capybara, CSS3, HTML5, PostgreSQL, Bcrypt, Git |
 |[Cultural Signatures Website](https://www.culturalsignatures.com/) | Solo | Website for my previous employer. Built with no prior coding knowledge | JavaScript, Node.js, Express, Jest, CSS3, HTML5 |
 | [Simple Banking App](https://github.com/Farzan-I/bank-tech-test) | Solo | A simple banking app made during the Makers course to mimick a tech test | Ruby, Rspec, IRB, Rubocop, Git | 
 |[Pointless Quest Terminal Game](https://github.com/Farzan-I/pointless-quest-game) | Solo | A command line, interactive terminal game made while trying to teach myself Ruby | Ruby, IRB |
@@ -46,8 +46,11 @@ As a [marketing executive](#cultural-signatures-mar-2020-to-nov-2020), I sculpte
 
 ### Excellent Communicator
 
-* While at [deVere Group](#devere-acuma-devere-group-may-2016-to-nov-2016), I generated client quarterly reports and provided weekly updates on their investments. This put a client's mind at ease, built rapport during uncertain times and in turn created a customer for life
-* At [Makers](#makers-academy-mar-2022-to-jul-2022), I used pair programming on various tasks such as afternoon side projects and actual [group]() ENDPOINT
+* While at [deVere Group](#devere-acuma-devere-group-may-2016-to-nov-2016), many clients felt in the dark in regards to their investments. I provided quarterly reports to clients and provided weekly updates on their investments after two weeks of joining the team. This put a client's mind at ease, built rapport during uncertain times, increased our revenue as there was more transparency they wanted to invest more and in turn created a customer for life
+
+
+
+* ENDPOINT
 
 
 Providing direction and a clear outline of the task at hand in the various Makers [projects](#projects) I've been in demonstrates my ability to get my point across and translate it into production quality code. This 
@@ -68,6 +71,7 @@ Providing direction and a clear outline of the task at hand in the various Maker
 * By using the [Rubber duck technique](https://rubberduckdebugging.com/), I say a problem out loud to find the root of the issue and break it down. This allows me to feel more confident to tackle the unknown and led me to learning the MERN stack in a week to create the final project of my [Makers course](#projects)
 * For our [Acebook project](https://github.com/Farzan-I/acebook), I learnt Node.js, Handlebars and Express independently in a week and used it to build a fully-functioning [Facebook mock website](https://lacebook.herokuapp.com/) 
 * I solely built the website for my previous employer in a week ([Cultural Signatures](#cultural-signatures-mar-2020-to-nov-2020)) with no prior coding knowledge. This was done through various avenues such as [Codecademy](https://www.codecademy.com/) and [W3 Schools](https://www.w3schools.com/) to show me the basics. Looking back, I can vastly improve every aspect of the website comfortably having learnt more skills and technological tools at Makers
+* (JUST ADDED) At [Makers](#makers-academy-mar-2022-to-jul-2022), we were encouraged to adopt an active learning approach to the curriculum. One way I saw a great opportunity to embrace this was to use pair programming and mobbing on various tasks such as afternoon side projects and [group projects](#projects). This allowed a refined way to approach the tasks and more intense, focused work to be carried out in a shorter amount of time, which resulted in higher quality projects to be completed
 
 <!-- ### Shrewd negotiater
 In my role at [AXM London](#axm-london-property-services-dec-2017-to-nov-2018), I negotiated deals that had the tenant, landlord and my company's interests at heart. This was done by assessing the situation from all perspectives, judging which needs have to be fulfilled and which could be compromised. 
