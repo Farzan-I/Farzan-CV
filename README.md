@@ -25,20 +25,6 @@ As a [marketing executive](#cultural-signatures-mar-2020-to-nov-2020), I sculpte
 | [Simple Banking App](https://github.com/Farzan-I/bank-tech-test) | Solo | A simple banking app made during the Makers course to mimick a tech test | Ruby, Rspec, IRB, Rubocop, Git | 
 |[Pointless Quest Terminal Game](https://github.com/Farzan-I/pointless-quest-game) | Solo | A command line, interactive terminal game made while trying to teach myself Ruby | Ruby, IRB |
 
-## Concepts
-
-* [XP/Agile methodology](https://www.digite.com/agile/extreme-programming-xp/#:~:text=Extreme%20programming%20is%20a%20software,to%20evolving%20and%20changing%20requirements.)
-* [TDD/BDD](https://www.geeksforgeeks.org/difference-between-bdd-vs-tdd-in-software-engineering/)
-* [Object Orientated Design](https://www.geeksforgeeks.org/oops-object-oriented-design/)
-* [RESTful APIs](https://aws.amazon.com/what-is/restful-api/#:~:text=RESTful%20API%20is%20an%20interface,applications%20to%20perform%20various%20tasks.)
-* [Pair programming](https://www.techtarget.com/searchsoftwarequality/definition/Pair-programming#:~:text=Pair%20programming%20is%20an%20Agile,code%20and%20test%20user%20stories.)
-* [Mobbing](https://www.agilealliance.org/glossary/mob-programming/#q=~(infinite~true~filters~(postType~(~'page~'post~'aa_book~'aa_event_session~'aa_experience_report~'aa_glossary~'aa_research_paper~'aa_video)~tags~(~'mob*20programming))~searchTerm~'~sort~false~sortDirection~'asc~page~1)) ✅
-* [Continuous Integration & Deployment](https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment#:~:text=CI%20stands%20for%20continuous%20integration,continuous%20delivery%20or%20continuous%20deployment.)
-* [Git workflow](https://www.atlassian.com/git/tutorials/comparing-workflows) ✅
-* [Code review](https://about.gitlab.com/topics/version-control/what-is-code-review/#:~:text=Code%20reviews%20are%20methodical%20assessments,code%20from%20shipping%20to%20customers.)
-* [Print statement debugging](https://totalview.io/blog/print-statement-debugging#:~:text=What%20Is%20Print%20Statement%20Debugging,diagnose%20issues%20within%20the%20program.)
-* [Remote working](https://www.remoteyear.com/blog/what-is-remote-work) ✅
-
 ## Skills
 
 ### Excellent Communicator
@@ -52,10 +38,6 @@ As a [marketing executive](#cultural-signatures-mar-2020-to-nov-2020), I sculpte
 * As project manager on various group [projects](#projects) at [Makers](#makers-academy-mar-2022-to-jul-2022), I ensured a cohesive and productive working environment. This was achieved by constantly checking in with members and mobbing various blockers to ensure every member understood each piece of code to empower them to work independently. This meant each person worked on a separate task and in turn churned out more features and a more complete app was made as a result.
 * Leading the way in terms of stand-ups and retros, I made sure every team member was heard and had contributions towards the project. During these times I created a safe place to ask questions and instilled an environment that members could bring up any issues/concerns. This was done by acknowledging each members strengths and weaknesses at the start of the projects and checking in on their progress. With these constant check ins, a better morale and productivity was felt, making for a happier team that had no unresolved issues, resulting in less conflicts and more production.
 * In 2011/2012, I captained Aslan FC to their [first ever league title](#hobbies-and-interests), in their first ever year in the competition. With a group of local footballers from ages of 15 - 38, we triumphed and made an unprecedented run to the league title. This reaffirmed my competitive nature as well as my leadership skills.
-
-
-
-ENDPOINT
 
 ### Thrives under pressure
 
@@ -81,6 +63,7 @@ ENDPOINT
 - Project led web apps in numerous [projects](#projects) using various programming languages and development tools
 - Conducted external process reviews on a fortnightly basis to mimick real life tech tests. Grew in confidence and ability every week to achieve a ***strong*** scorecard from my last reviewer, demonstrating my progression throughout the course.
 - Pair programmed on a regular basis, using the pomodoro technique to schedule breaks and maximise efficiency. This led to less code blockers and bugs as felt more fresh and capable to tackle the task at hand, while having two sets of eyes on the code.
+- Constantly used TDD and BDD to write production quality code for projects and tasks. Mimicked working in a tech department using these fundamentals.
 - Scheduled a ping-pong championship to keep morale and camaraderie within the cohort and ensure everyone feels involved (even though I'm not great at table tennis!).
 
 ### Language Empire (Jan 2021 to Dec 2021)<br>
