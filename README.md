@@ -5,9 +5,6 @@
 ### Contents
 
 [![Projects](https://img.shields.io/badge/-Projects-33ff99)](#projects) | [![skills](https://img.shields.io/badge/-Skills-ed1b76)](#skills) | [![Experience](https://img.shields.io/badge/-Experience-33ff99)](#experience) | [![Education](https://img.shields.io/badge/-Education-ed1b76)](#education) | [![Hobbies and Interests](https://img.shields.io/badge/-Hobbies%20and%20Interests-33ff99)](#hobbies-and-interests)
-  
-<!--   [![concepts](https://img.shields.io/badge/-Concepts-ed1b76)](#concepts) -->
-
 
 ### Contact/Links
 [![LinkedIn]](https://www.linkedin.com/in/farzan-imanzadeh-079a95a3/) | [![Blog]](https://medium.com/@farzanimanzadeh) | [![CodeWars Profile]](https://www.codewars.com/users/fazzy15)
@@ -47,7 +44,7 @@ As a [marketing executive](#cultural-signatures-mar-2020-to-nov-2020), I sculpte
 ### Excellent Communicator
 
 * While at [deVere Group](#devere-acuma-devere-group-may-2016-to-nov-2016), many clients felt in the dark in regards to their investments. I provided quarterly reports to clients and provided weekly updates on their investments after two weeks of joining the team. This put a client's mind at ease, built rapport during uncertain times, increased our revenue as there was more transparency they wanted to invest more and in turn created a customer for life
-
+* Coding can be a daunting feat, especially if there's no clarity. At [Makers](#makers-academy-mar-2022-to-jul-2022), 
 
 
 * ENDPOINT
