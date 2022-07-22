@@ -44,12 +44,12 @@ As a [marketing executive](#cultural-signatures-mar-2020-to-nov-2020), I sculpte
 ### Excellent Communicator
 
 * While at [deVere Group](#devere-acuma-devere-group-may-2016-to-nov-2016), many clients felt in the dark in regards to their investments. I provided quarterly reports as well as weekly updates on their investments within two weeks of joining the team. This put a client's mind at ease, built rapport during uncertain times, created more transparency that led to more investment and in turn created a customer for life.
-* Coding can be a daunting feat, especially if there's no clarity. At [Makers](#makers-academy-mar-2022-to-jul-2022), I learnt how to use Trello and Miro boards effectively to build a better understanding of the features, objectives and direction that a project/task should go towards. This involved writing user stories to see the app from the client's perspective, creating tickets to keep track of progress and diagramming the sequence of the framework we would use. This resulted in coherence between the frontend and backend teams I was in to create some production quality [projects](#projects).
+* Coding can be a daunting feat, especially if there's no clarity. At [Makers](#makers-academy-mar-2022-to-jul-2022), I learnt how to use [Miro](https://miro.com/) and [Trello](https://trello.com/en) boards effectively to build a better understanding of the features, objectives and direction that a project/task should go towards. This involved writing user stories to see the app from the client's perspective, creating tickets to keep track of progress and diagramming the sequence of the framework we would use. This resulted in coherence between the frontend and backend teams I was in to create some production quality [projects](#projects).
 * My written communication skills have been furthered in my [blogs](https://medium.com/@farzanimanzadeh), as well as the README's in my [projects](#projects).
 
 ### Natural leader
 
-* As project manager on various group [projects](#projects) at [Makers](#makers-academy-mar-2022-to-jul-2022), I ensured a cohesive and productive working environment. This was achieved by constantly checking in with members and mobbing various blockers to ensure every member understands each piece of code to empower them to work independently afterwards. This meant every member worked on a separate task and in turn churned out more features and a more complete app as a result.
+* As project manager on various group [projects](#projects) at [Makers](#makers-academy-mar-2022-to-jul-2022), I ensured a cohesive and productive working environment. This was achieved by constantly checking in with members and mobbing various blockers to ensure every member understood each piece of code to empower them to work independently. This meant each person worked on a separate task and in turn churned out more features and a more complete app was made as a result.
 * Leading the way in terms of stand-ups and retros, I made sure every team member was heard and had contributions towards the project. During these times I created a safe place to ask questions and instilled an environment that members could bring up any issues/concerns. This was done by acknowledging each members strengths and weaknesses at the start of the projects and checking in on their progress. With these constant check ins, a better morale and productivity was felt, making for a happier team that had no unresolved issues, resulting in less conflicts and more production.
 * In 2011/2012, I captained Aslan FC to their [first ever league title](#hobbies-and-interests), in their first ever year in the competition. With a group of local footballers from ages of 15 - 38, we triumphed and made an unprecedented run to the league title. This reaffirmed my competitive nature as well as my leadership skills.
 
@@ -59,22 +59,18 @@ ENDPOINT
 
 ### Thrives under pressure
 
-* By using agile methodologies, specifically extreme programming, I completed my final group [project](#projects) under time constraints and a team member contracting Covid-19. By implementing this work flow, we were able to break the app down into sizable chunks that every member of the group could carry out as a pair or solo, on site or remote. This meant more of the work was achieved in half the time using [Trello](https://trello.com/en) and [Miro](https://miro.com/) boards to aide this and keep the progress updated using these tools to know at what stage everyone is at. As a result, we were able to implement an [app](https://github.com/Farzan-I/brains-on-brioche) that received great feedback for its originality and functionality
-* While working in [AXM London](#axm-london-property-services-dec-2017-to-nov-2018), deadlines were abrupt. My adaptive nature allowed me to persevere and complete transactions no matter what I faced. These, coupled with my competitive nature, allow me to work effectively when under a time constraint
+* By using agile methodologies, specifically extreme programming, I completed my final group [project](#projects) under time constraints and a team member contracting Covid-19. By implementing this work flow, we were able to break the app down into sizable chunks that every member of the group could carry out as a pair or solo, on site or remote. This meant more of the work was achieved in half the time using [Miro](https://miro.com/) and [Trello](https://trello.com/en) boards to aide this and keep the progress updated using these tools to know at what stage everyone was at. As a result, we were able to implement an [app](https://github.com/Farzan-I/brains-on-brioche) that received great feedback for its originality and functionality.
+* While working in [AXM London](#axm-london-property-services-dec-2017-to-nov-2018), deadlines were abrupt. My adaptive nature allowed me to persevere and complete transactions no matter what I faced. These, coupled with my competitive nature, allow me to work effectively when under a time constraint.
 
 ### Fast learner
-* By using the [Rubber duck technique](https://rubberduckdebugging.com/), I say a problem out loud to find the root of the issue and break it down. This allows me to feel more confident to tackle the unknown and led me to learning the MERN stack in a week to create the final project of my [Makers course](#projects)
-* For our [Acebook project](https://github.com/Farzan-I/acebook), I learnt Node.js, Handlebars and Express independently in a week and used it to build a fully-functioning [Facebook mock website](https://lacebook.herokuapp.com/) 
-* I solely built the website for my previous employer in a week ([Cultural Signatures](#cultural-signatures-mar-2020-to-nov-2020)) with no prior coding knowledge. This was done through various avenues such as [Codecademy](https://www.codecademy.com/) and [W3 Schools](https://www.w3schools.com/) to show me the basics. Looking back, I can vastly improve every aspect of the website comfortably having learnt more skills and technological tools at Makers
-* (JUST ADDED) At [Makers](#makers-academy-mar-2022-to-jul-2022), we were encouraged to adopt an active learning approach to the curriculum. One way I saw a great opportunity to embrace this was to use pair programming and mobbing on various tasks such as afternoon side projects and [group projects](#projects). This allowed a refined way to approach the tasks and more intense, focused work to be carried out in a shorter amount of time, which resulted in higher quality projects to be completed
-
-<!-- ### Shrewd negotiater
-In my role at [AXM London](#axm-london-property-services-dec-2017-to-nov-2018), I negotiated deals that had the tenant, landlord and my company's interests at heart. This was done by assessing the situation from all perspectives, judging which needs have to be fulfilled and which could be compromised. 
-Achieving the highest lettings figures for the company within 6 months underlined my negotiating skills. At [Enterprise Rent-A-Car](#enterprise-rent-a-car-nov-2014-to-dec-2015-management-trainee), I finished in the top 25 sales people of South-west England three times in a year. This was achieved by upselling various products such as fully comprehensive insurance on vehicles or upgrading a customer's vehicle class. While at [deVere Group](#devere-acuma-devere-group-may-2016-to-nov-2016), I turned cold leads to customers for life by expressing the benefits of a tax free country (United Arab Emirates) and providing products that were tailor made for each client. -->
+* At [Makers](#makers-academy-mar-2022-to-jul-2022), we were encouraged to adopt an active learning approach to the curriculum. This was a way to embrace Carol Dweck's Growth Mindset and adopt an active learning approach to the curriculum. With minimal coaching, I learnt Ruby, JavaScript and React during my time there by adopting various techniques such as [rubber ducking](https://rubberduckdebugging.com/), mastering Google searches and breaking down a problem to bite size chunks using diagramming/mapping to understand the frameworks better. This meant I was able to learn various object orientated languages with ease and push myself to pick up others when needed.
+* For the [Acebook project](https://github.com/Farzan-I/acebook), I learnt the MEHN stack independently in a week and used it to build a fully-functioning [Facebook mock website](https://lacebook.herokuapp.com/). 
+* I solely built the website for my previous employer in four days ([Cultural Signatures](#cultural-signatures-mar-2020-to-nov-2020)) with no prior coding knowledge. This was done through various avenues such as [Codecademy](https://www.codecademy.com/) and [W3 Schools](https://www.w3schools.com/) to show me the basics. Looking back, I can vastly improve every aspect of the website comfortably having learnt more skills and technological tools at Makers.
+* Moving through various customer facing roles, I had to adapt myself to the industry standards within a limited timeframe. This meant learning the cores of the various [businesses](#experience) I was at, deploy their philosophies and meet numerous goals in the process. While at [AXM London], I achieved highest lettings figures for the company within 6 months. This was due to learning the core aspects of the estate agency industry (mainly how to negotiate better) and applying them in my role. While at Enterprise Rent-A-Car, I finished in the top 25 sales people of England, three times in a year. This was achieved by upselling various products such as fully comprehensive insurance on vehicles or upgrading a customer's vehicle class. This came down to knowing how to fact find better while with a client and knowing what aspects of their rental you could tailor to better match their needs.
 
 ### Exceptional customer service
-* Getting noticed in a competitive industry has its benefits. Getting word of mouth referrals represent a stamp of approval from a past client and I received many while at [deVere Group](#devere-acuma-devere-group-may-2016-to-nov-2016), [AXM London](#axm-london-property-services-dec-2017-to-nov-2018), [Cultural Signatures](#cultural-signatures-mar-2020-to-nov-2020) and [Language Empire](#language-empire-jan-2021-to-dec-2021) 
-* While I was at [Enterprise Rent-A-Car](#enterprise-rent-a-car-nov-2014-to-dec-2015-management-trainee), I received glowing feedback, three comemorative 'E pins' and over 90% completely satisfied customers for 9 out of the 12 months I was at the specified branch, St John's Wood. This was a massive indication of the commitment I had to providing the best experience possible for a client to ensure they leave on a good note and have us at the forefront of their mind for any future car rental needs
+* Getting noticed in a competitive industry has its benefits. Getting word of mouth referrals represent a stamp of approval from a past client and I received many while at [deVere Group](#devere-acuma-devere-group-may-2016-to-nov-2016), [AXM London](#axm-london-property-services-dec-2017-to-nov-2018), [Cultural Signatures](#cultural-signatures-mar-2020-to-nov-2020) and [Language Empire](#language-empire-jan-2021-to-dec-2021). This came down to my rapport building with clients by showing empathy and a tailored service to successfully meet every client's needs. 
+* While I was at [Enterprise Rent-A-Car](#enterprise-rent-a-car-nov-2014-to-dec-2015-management-trainee), I received glowing feedback, three comemorative 'E pins' and over 90% completely satisfied customers for 9 out of the 12 months I was at the specified branch, St John's Wood. This was a massive indication of the commitment I had to providing the best experience possible for a client to ensure they leave on a good note and have us at the forefront of their mind for any future car rental needs.
 
 ### Additional skill
 **Languages**: English *(native)*, Farsi *(fluent)*, Spanish *(basic)*
@@ -82,68 +78,68 @@ Achieving the highest lettings figures for the company within 6 months underline
 ## Experience
 ### Makers Academy (Mar 2022 to Jul 2022)<br>
 **16-week intensive coding bootcamp**
-- Implemented web apps in numerous [projects](#projects) using various programming languages and development tools
-- Conducted external process reviews on a fortnightly basis to mimick real life tech tests. Grew in confidence and ability every week to achieve a ***strong*** scorecard from my last reviewer
-- Pair program on a regular basis, using the pomodoro technique to schedule breaks and maximise efficiency. This led to less code blockers and bugs as felt more fresh and capable to tackle the task at hand, while having two sets of eyes on the code
-- Scheduled a ping-pong championship to keep morale and camaraderie within the cohort and ensure everyone feels involved (even though I'm not great at table tennis!)
+- Project led web apps in numerous [projects](#projects) using various programming languages and development tools
+- Conducted external process reviews on a fortnightly basis to mimick real life tech tests. Grew in confidence and ability every week to achieve a ***strong*** scorecard from my last reviewer, demonstrating my progression throughout the course.
+- Pair programmed on a regular basis, using the pomodoro technique to schedule breaks and maximise efficiency. This led to less code blockers and bugs as felt more fresh and capable to tackle the task at hand, while having two sets of eyes on the code.
+- Scheduled a ping-pong championship to keep morale and camaraderie within the cohort and ensure everyone feels involved (even though I'm not great at table tennis!).
 
 ### Language Empire (Jan 2021 to Dec 2021)<br>
 **Farsi to English translator**
-- Translator for the NHS and other organisations requiring translators 
-- Required me to utilise my communication skills and build rapport with ages between ten and ninety year olds
-- Was requested for numerous repeat jobs due to the customer service I provided
+- Translator for the NHS and other organisations requiring translators.
+- Required me to utilise my communication skills and build rapport with ages between ten and ninety year olds.
+- Was requested for numerous repeat jobs due to the customer service I provided.
 
 ### Cultural Signatures (Mar 2020 to Nov 2020)<br>
 **Marketing Executive**
-- Oversaw revamp of company [website](https://www.culturalsignatures.com) which resulted in increased traffic and greater awareness of the company's stance with charitable causes
-- Sourcing and securing sponsorship within a timescale, leading to charitable donations to several life-threatening diseases such as multiple sclerosis
-- Repeat benefactors requested to speak specifically to me due to their previous encounter leaving a good mark
+- Oversaw revamp of company [website](https://www.culturalsignatures.com) which resulted in increased traffic and greater awareness of the company's stance with charitable causes.
+- Sourcing and securing sponsorship within a timescale, leading to charitable donations to several life-threatening diseases such as multiple sclerosis.
+- Repeat benefactors requested to speak specifically to me due to their previous encounter leaving a good mark.
 
 ### Pret A Manger (Dec 2018 to Aug 2019)<br>
 **Manager on Duty/Team Leader**
-- Instigated a new customer experience through technology which allowed customers with dietary requirements or allergies to know what the products contained before they were purchased
-- Repeat customers brought gifts and goodies which I would hand to my staff members in recognition of a good customer experience we provided as a team
-- Trained new team members regarding customer service in line with Pret standards. Implemented this due to my democratic leaderership style and instilled confidence in staff members
+- Instigated a new customer experience through technology which allowed customers with dietary requirements or allergies to know what the products contained before they were purchased.
+- Repeat customers brought gifts and goodies which I would hand to my staff members in recognition of a good customer experience we provided as a team.
+- Trained new team members regarding customer service in line with Pret standards. Implemented this due to my democratic leaderership style and instilled confidence in the team.
 
 ### AXM London Property Services (Dec 2017 to Nov 2018)<br>
 **Senior Lettings Negotiator**
-- Aided in the redesign of the website interface and public facing billboards. This resulted in more enquiries for properties and a quicker closing rate (home-to-market to off-the-market)
-- Provided exceptional customer service resulting in word of mouth referrals and positive Google reviews
-- Achieved the company's highest lettings figures for two quarters during my first 6 months
+- Aided in the redesign of the website interface and public facing billboards. Resulted in more enquiries for properties and a quicker closing rate (on-to-market to off-the-market)
+- Provided exceptional customer service resulting in word of mouth referrals and positive Google reviews.
+- Achieved the company's highest lettings figures for two quarters during my first 6 months.
 
 ### deVere Acuma (deVere Group) (May 2016 to Nov 2016)<br>
 **Wealth Advisor Team Member**
-- Suggested to senior management an app to track all clients' portfolios, was implemented in Feb 2017
-- Knowledge of various investments such as insurance, structured notes and other savings products. Learnt these within 2 weeks and achieved a 96% pass mark for Chartered Institute of Securities and Investment level 1 to demonstrate my fast learnerning trait
+- Suggested to senior management an app to track all clients' portfolios, was implemented in Feb 2017.
+- Knowledge of various investments such as insurance, structured notes and other savings products. Learnt these within 2 weeks and achieved a 96% pass mark for Chartered Institute of Securities and Investment level 1 to demonstrate my fast learning trait.
 - CRM system experience: confidential data handling
 - First point of contact for clients: complaints handling, quarterly reports, providing investment updates
 - Generating leads through cold calling, networking in events as well as organic word-of-mouth referrals
 
 ### Multiple customer facing roles:
 #### Enterprise Rent-A-Car (Nov 2014 to Dec 2015) Management Trainee
-- Experience using the IBM Ralph system made to control fleet of branch's vehicles
-- Over 90% completely satisfied clients (public and corporate) within one year
+- Experience using the IBM Ralph system made to control branch's fleet of vehicles.
+- Over 90% completely satisfied clients (public and corporate) within one year.
 
 #### Pizza Express (Dec 2010 to Oct 2014) Manager on duty
-- Brought cohesion and stability to a disorganised workforce, raising the store into top 25 of the company
-- Raised standards to break previous records for revenue, profits and customer feedback
+- Brought cohesion and stability to a disorganised workforce, raising the store into top 10 of the company.
+- Raised standards to break previous records for revenue, profits and customer feedback.
 
 ## Education
 ### London Metropolitan University (Sep 2010 to Jul 2014)
 **Business Management BA**
-- First class with honours degree
-- Studied modules such as psychology, marketing, risk management, economics and accounting
-- Centre back/wing back for the university football team
+- First class with honours degree.
+- Studied modules such as psychology, marketing, risk management, economics and accounting.
+- Centre back/wing back for the university football team.
 
 ## Hobbies and Interests
-- **Football**: captained Aslan FC to their first ever 11-a-side London Football league title in 2011/2012 and won several Power Leagues pre-Covid
-- **Charity work**: organised a prostate cancer football tournament, raising over £2000
-- **Fishing**: unwind on a sunny day with a reel in my hand (sometimes don't even catch anything!)
-- **Cooking**: love to make a variety of cuisines from around the world (chili con carne connoisseur)
-- **Bouldering**: found peace in this art, it pushes my boundaries and appeals to my competitive spirit
-- **Gaming**: avid fan of video and board games (keen to try all of them!)
-- **Karting**: practice Mario Kart in real life on a semi-regular basis, just without the shells or banana peels
-- **Donate blood**: regularly donate blood (every 3-6 months) to help those that may need it
+- **Football**: captained Aslan FC to their first 11-a-side London Football league title in 2011/2012 and won several Power Leagues pre-Covid.
+- **Charity work**: organised a prostate cancer football tournament, raising over £2000.
+- **Fishing**: unwind on a sunny day with a reel in my hand (sometimes don't even catch anything!).
+- **Cooking**: love to make a variety of cuisines from around the world (chili con carne connoisseur).
+- **Bouldering**: found peace in this art, it pushes my boundaries and appeals to my competitive and active spirit.
+- **Gaming**: avid fan of video and board games (keen to try them all!).
+- **Karting**: practice Mario Kart in real life on a semi-regular basis, just without the shells or banana peels.
+- **Donate blood**: regularly donate blood (every 3-6 months) to help those that may need it most.
 
 <!-- Badge Links -->
 [LinkedIn]: https://img.shields.io/badge/LinkedIn-%232A6AC7?style=for-the-badge&logo=linkedin
