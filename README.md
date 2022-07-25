@@ -111,7 +111,7 @@ As a [marketing executive](#cultural-signatures-mar-2020-to-nov-2020), I sculpte
 **Business Management BA**
 - First class honours degree.
 - Studied modules such as psychology, marketing, risk management, economics and accounting.
-- Centre back/wing back for the university football team.
+- Centre back/wing back for university football team.
 
 ## Hobbies and Interests
 - **Football**: captained Aslan FC to their first 11-a-side London Football league title in 2011/2012 and won several Power Leagues pre-Covid.
