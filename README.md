@@ -114,7 +114,7 @@ As a [marketing executive](#cultural-signatures-mar-2020-to-nov-2020), I sculpte
 - Centre back/wing back for university football team.
 
 ## Hobbies and Interests
-- **Football**: captained Aslan FC to 11-a-side London Football league title in 2011/12. Won several Power Leagues.
+- **Football**: captained Aslan FC to their first 11-a-side London Football league title in 2011/12. Won several Power Leagues.
 - **Charity work**: organised a prostate cancer football tournament, raising over £2000.
 - **Fishing**: unwind on a sunny day with a reel in my hand (sometimes don't even catch anything!).
 - **Cooking**: love to make a variety of cuisines from around the world (chili con carne connoisseur).
