@@ -109,7 +109,7 @@ As a [marketing executive](#cultural-signatures-mar-2020-to-nov-2020), I sculpte
 ## Education
 ### London Metropolitan University (Sep 2010 to Jul 2014)
 **Business Management BA**
-- First class with honours degree.
+- First class honours degree.
 - Studied modules such as psychology, marketing, risk management, economics and accounting.
 - Centre back/wing back for the university football team.
 
