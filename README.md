@@ -19,7 +19,7 @@ As a [marketing executive](#cultural-signatures-mar-2020-to-nov-2020), I sculpte
 | Name     |Group/Solo  | Description | Technologies|
 |---       |---          |---          |---          |
 | [Brains On Brioche](https://github.com/Farzan-I/brains-on-brioche) | Group | **Final Makers project**: A web app to help create recipes using an API with given ingredients to minimise food waste. Learnt MERN stack in a week | MERN stack (MongoDB, Express, React, Node.js), Redux, Axios, CSS3, HTML5, Cypress, Mongoose, Jest, Spoonacular API, Bcrypt, ESlint, Git |
-| [Acebook](https://github.com/Farzan-I/facebook-clone) | Group | A Facebook clone for which I learnt MEHN stack in a week | MEHN stack (MongoDB, Express, Handlebars and Node.js), CSS3, HTML5, Cypress, Mongoose, Jest, Bcrypt, ESlint, Git |
+| [Acebook](https://github.com/Farzan-I/acebook) | Group | A Facebook clone for which I learnt MEHN stack in a week | MEHN stack (MongoDB, Express, Handlebars and Node.js), CSS3, HTML5, Cypress, Mongoose, Jest, Bcrypt, ESlint, Git |
 | [Chuckle Hotel](https://github.com/Farzan-I/chuckle-hotel)| Group | An AirBnB clone introducing me to agile methodologies and workflows | Ruby, Rspec, IRB, Sinatra, Capybara, CSS3, HTML5, PostgreSQL, Bcrypt, Git |
 |[Cultural Signatures Website](https://www.culturalsignatures.com/) | Solo | Website for my previous employer. Built with no prior coding knowledge | JavaScript, Node.js, Express, Jest, CSS3, HTML5 |
 | [Simple Banking App](https://github.com/Farzan-I/bank-tech-test) | Solo | A simple banking app made during the Makers course to mimick a tech test | Ruby, Rspec, IRB, Rubocop, Git | 
