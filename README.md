@@ -23,7 +23,7 @@ As a [marketing executive](#cultural-signatures-mar-2020-to-nov-2020), I sculpte
 | [Chuckle Hotel](https://github.com/Farzan-I/chuckle-hotel)| Group | An AirBnB clone introducing me to agile methodologies and workflows | Ruby, Rspec, IRB, Sinatra, Capybara, CSS3, HTML5, PostgreSQL, Bcrypt, Git |
 |[Cultural Signatures Website](https://www.culturalsignatures.com/) | Solo | Website for my previous employer. Built with no prior coding knowledge | JavaScript, Node.js, Express, Jest, CSS3, HTML5 |
 | [Banking App](https://github.com/Farzan-I/bank-tech-test) | Solo | A banking app made during the Makers course to mimic a tech test | Ruby, Rspec, IRB, Rubocop, Git | 
-|[Pointless Quest Terminal Game](https://github.com/Farzan-I/pointless-quest-game) | Solo | A command line, interactive terminal game made while teaching myself Ruby | Ruby, IRB |
+|[Pointless Quest Terminal Game](https://github.com/Farzan-I/pointless-quest-game) | Solo | A command line, interactive game made while teaching myself Ruby | Ruby, IRB |
 
 ## Skills
 
