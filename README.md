@@ -12,7 +12,7 @@
 
 Detail orientated professional, recent [Makers Academy](#makers-academy-mar-2022-to-jul-2022) graduate (April '22 - July '22). Learnt the fundamentals of the command line, perfecting the use of git alongside completing Ruby, JavaScript (MERN/MEHN) projects using an extensive list of technological tools, while implementing agile methodologies.
 
-As a [marketing executive](#cultural-signatures-mar-2020-to-nov-2020), I sculpted the [company's website](https://www.culturalsignatures.com) with no prior coding experience. This gave me a great insight and thirst for software engineering. Graduating from [London Metropolitan University](#london-metropolitan-university-sep-2010-to-jul-2014) with a first class degree in Business Management, I spent a year working for [Enterprise Rent-A-Car](#enterprise-rent-a-car-nov-2014-to-dec-2015-management-trainee) on their graduate scheme. Here, I encountered the IBM software Ralph that started my fascination for software development. I have spent the last 18 months learning how to code, 4 of which have been with [Makers Academy bootcamp](https://makers.tech/). I'm currently learning Ruby on Rails in my spare time.
+As a [marketing executive](#cultural-signatures-mar-2020-to-nov-2020), I sculpted the [company's website](https://www.culturalsignatures.com) with no prior coding experience. This gave me a great insight and thirst for software engineering. Graduating from [London Metropolitan University](#london-metropolitan-university-sep-2010-to-jul-2014) with a first class degree in Business Management, I spent a year working for [Enterprise Rent-A-Car](#enterprise-rent-a-car-nov-2014-to-dec-2015-management-trainee) on their graduate scheme. Here, I encountered the IBM software Ralph that started my fascination for software development. I have spent the last 18 months learning how to code, 4 of which have been with [Makers Academy boot camp](https://makers.tech/). I'm currently learning Ruby on Rails in my spare time.
 
 ## Projects
 
@@ -58,7 +58,7 @@ As a [marketing executive](#cultural-signatures-mar-2020-to-nov-2020), I sculpte
 
 ## Experience
 ### Makers Academy (Mar 2022 to Jul 2022)<br>
-**16-week intensive coding bootcamp**
+**16-week intensive coding boot camp**
 - Project led web apps in numerous [projects](#projects) using various programming languages and development tools
 - Conducted external process reviews on a fortnightly basis to mimic real life tech tests. Grew in confidence and ability every week to achieve a ***strong*** scorecard from my last reviewer, demonstrating my progression throughout the course
 - Pair programmed on a regular basis, using the pomodoro technique to schedule breaks and maximise efficiency. This led to less code blockers and bugs as felt more fresh and capable to tackle the task at hand, while having two sets of eyes on the code
