@@ -85,7 +85,7 @@ As a [marketing executive](#cultural-signatures-mar-2020-to-nov-2020), I sculpte
 
 ### AXM London Property Services (Dec 2017 to Nov 2018)<br>
 **Senior Lettings Negotiator**
-- Aided in the redesign of the website interface and public facing billboards. Resulted in more enquiries for properties and a quicker closing rate (on-to-market to off-the-market)
+- Aided in the redesign of the website interface and public facing billboards. Resulted in more enquiries for properties and a quicker closing rate (time span for property being rented)
 - Provided exceptional customer service resulting in word of mouth referrals and positive Google reviews
 - Achieved the company's highest lettings figures for two quarters during my first 6 months
 
