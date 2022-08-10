@@ -61,15 +61,15 @@ As a [marketing executive](#cultural-signatures-mar-2020-to-nov-2020), I sculpte
 **16-week intensive coding boot camp**
 - Project led web apps in numerous [projects](#projects) using various programming languages and development tools
 - Conducted external process reviews on a fortnightly basis to mimic real life tech tests. Grew in confidence and ability every week to achieve a ***strong*** scorecard from my last reviewer
-- Pair programmed on a regular basis, using the pomodoro technique to schedule breaks and maximise efficiency. This led to less code blockers and bugs as felt more fresh and capable to tackle the task at hand, while having two sets of eyes on the code
+- Pair programmed on a regular basis, using the pomodoro technique to schedule breaks and maximise efficiency. This led to less code blockers and bugs as felt fresher and more capable to tackle the task at hand, while having two sets of eyes on the code
 - Constantly used TDD and BDD to write production quality code for projects and tasks. Mimicked working in a tech department using these fundamentals
 - Scheduled a ping-pong championship to keep morale and camaraderie within the cohort and ensure everyone feels involved (even though I'm not great at table tennis!)
 
 ### Language Empire (Jan 2021 to Dec 2021)<br>
 **Farsi to English translator**
 - Translator for the NHS and other organisations requiring translators
-- Required me to utilise my communication skills and build rapport with ages between ten and ninety year olds
-- Was requested for numerous repeat jobs due to the customer service I provided
+- Required me to utilise my communication skills and build rapport with ages between 10 and 90 year olds
+- Was requested for numerous repeat jobs due to the level of customer service I provided
 
 ### Cultural Signatures (Mar 2020 to Nov 2020)<br>
 **Marketing Executive**
