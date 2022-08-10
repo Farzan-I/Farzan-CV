@@ -60,7 +60,7 @@ As a [marketing executive](#cultural-signatures-mar-2020-to-nov-2020), I sculpte
 ### Makers Academy (Mar 2022 to Jul 2022)<br>
 **16-week intensive coding boot camp**
 - Project led web apps in numerous [projects](#projects) using various programming languages and development tools
-- Conducted external process reviews on a fortnightly basis to mimic real life tech tests. Grew in confidence and ability every week to achieve a ***strong*** scorecard from my last reviewer, demonstrating my progression throughout the course
+- Conducted external process reviews on a fortnightly basis to mimic real life tech tests. Grew in confidence and ability every week to achieve a ***strong*** scorecard from my last reviewer
 - Pair programmed on a regular basis, using the pomodoro technique to schedule breaks and maximise efficiency. This led to less code blockers and bugs as felt more fresh and capable to tackle the task at hand, while having two sets of eyes on the code
 - Constantly used TDD and BDD to write production quality code for projects and tasks. Mimicked working in a tech department using these fundamentals
 - Scheduled a ping-pong championship to keep morale and camaraderie within the cohort and ensure everyone feels involved (even though I'm not great at table tennis!)
