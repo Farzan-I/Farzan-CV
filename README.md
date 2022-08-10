@@ -79,9 +79,9 @@ As a [marketing executive](#cultural-signatures-mar-2020-to-nov-2020), I sculpte
 
 ### Pret A Manger (Dec 2018 to Aug 2019)<br>
 **Manager on Duty/Team Leader**
-- Instigated a new customer experience through technology which allowed customers with dietary requirements or allergies to know what the products contained before they were purchased
-- Repeat customers brought gifts and goodies which I would hand to my staff members in recognition of a good customer experience we provided as a team
-- Trained new team members regarding customer service in line with Pret standards. Implemented this due to my democratic leaderership style and instilled confidence in the team
+- Instigated a new customer experience through technology allowing customers with dietary requirements/allergies to know what the products contained before purchasing
+- Repeat customers brought gifts and goodies which I would hand to staff members in recognition of a good customer experience we provided as a team
+- Trained new team members regarding customer service in line with Pret standards
 
 ### AXM London Property Services (Dec 2017 to Nov 2018)<br>
 **Senior Lettings Negotiator**
