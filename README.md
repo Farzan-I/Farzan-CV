@@ -116,7 +116,7 @@ As a [marketing executive](#cultural-signatures-mar-2020-to-nov-2020), I sculpte
 ## Hobbies and Interests
 - **Football**: captained Aslan FC to their first 11-a-side London Football league title in 2011/12. Won several Power Leagues
 - **Charity work**: organised a tournament fundraiser for Prostate Cancer UK in 2014, raising over £2000
-- **Fishing**: unwind on a sunny day with a reel in my hand (sometimes don't even catch anything!)
+- **Fishing**: unwind on a sunny day with a rod (sometimes don't even catch anything)
 - **Cooking**: love to make a variety of cuisines from around the world (chili con carne connoisseur)
 - **Bouldering**: found peace in this art, it pushes my boundaries and appeals to my competitive and active spirit
 - **Gaming**: avid fan of video and board games (keen to try them all!)
