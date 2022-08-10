@@ -118,7 +118,7 @@ As a [marketing executive](#cultural-signatures-mar-2020-to-nov-2020), I sculpte
 - **Charity work**: organised a tournament fundraiser for Prostate Cancer UK in 2014, raising over £2000
 - **Fishing**: unwind on a sunny day with a rod (sometimes don't even catch anything)
 - **Cooking**: love to make a variety of cuisines from around the world (chili con carne connoisseur)
-- **Bouldering**: found peace in this art, it pushes my boundaries and appeals to my competitive and active spirit
+- **Bouldering**: found peace in this art, pushes my boundaries and appeals to my competitive and active nature
 - **Gaming**: avid fan of video and board games (keen to try them all!)
 - **Karting**: practice Mario Kart in real life on a semi-regular basis, just without the shells or banana peels
 - **Donate blood**: regularly donate blood (every 3-6 months) to help those that may need it most
