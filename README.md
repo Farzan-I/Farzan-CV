@@ -91,7 +91,7 @@ As a [marketing executive](#cultural-signatures-mar-2020-to-nov-2020), I sculpte
 
 ### deVere Acuma (deVere Group) (May 2016 to Nov 2016)<br>
 **Wealth Advisor Team Member**
-- Suggested to senior management an app to track all clients' portfolios, was implemented in Feb 2017
+- Suggested to senior management an app to track all clients' portfolios, implemented in February 2017
 - Knowledge of various investments such as insurance, structured notes and other savings products. Learnt these within 2 weeks and achieved a 96% pass mark for Chartered Institute of Securities and Investment level 1 to demonstrate my fast learning trait
 - CRM system experience: confidential data handling
 - First point of contact for clients: complaints handling, quarterly reports, providing investment updates
