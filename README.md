@@ -10,9 +10,9 @@
 [![LinkedIn]](https://www.linkedin.com/in/farzan-imanzadeh-079a95a3/) | [![Blog]](https://medium.com/@farzanimanzadeh) | [![CodeWars Profile]](https://www.codewars.com/users/fazzy15)
 </div>
 
-Detail orientated professional, recent [Makers Academy](#makers-academy-mar-2022-to-jul-2022) graduate (April '22 - July '22). Learnt the fundamentals of the command line, perfecting the use of git alongside completing Ruby, JavaScript (MERN/MEHN) projects using an extensive list of technological tools, while implementing agile methodologies.
+Detail-orientated professional and graduate of the intensive [Makers Academy boot camp](https://makers.tech/). I have a passion for identifying gaps in tech stacks that could benefit with the use of other tech tools while making code more manageable and efficient. 
 
-As a [marketing executive](#cultural-signatures-mar-2020-to-nov-2020), I sculpted the [company's website](https://www.culturalsignatures.com) with no prior coding experience. This gave me a great insight and thirst for software engineering. Graduating from [London Metropolitan University](#london-metropolitan-university-sep-2010-to-jul-2014) with a first class degree in Business Management, I spent a year working for [Enterprise Rent-A-Car](#enterprise-rent-a-car-nov-2014-to-dec-2015-management-trainee) on their graduate scheme. Here, I encountered the IBM software Ralph that started my fascination for software development. I have spent the last 18 months learning how to code, 4 of which have been with [Makers Academy boot camp](https://makers.tech/). I'm currently learning Ruby on Rails in my spare time.
+As a [marketing executive](#cultural-signatures-mar-2020-to-nov-2020), I gained a love for software engineering when I created the [company's website](https://www.culturalsignatures.com) with no prior coding experience. During my time at Makers, I built on my existing skillset to grow as a software engineer and I'm eager to use my tech skills to contribute to an ambitious and forward-thinking company.
 
 ## Projects
 
