@@ -7,7 +7,7 @@
 [![Projects](https://img.shields.io/badge/-Projects-33ff99)](#projects) | [![skills](https://img.shields.io/badge/-Skills-ed1b76)](#skills) | [![Experience](https://img.shields.io/badge/-Experience-33ff99)](#experience) | [![Education](https://img.shields.io/badge/-Education-ed1b76)](#education) | [![Hobbies and Interests](https://img.shields.io/badge/-Hobbies%20and%20Interests-33ff99)](#hobbies-and-interests)
 
 ### Contact/Links
-[![LinkedIn]](https://www.linkedin.com/in/farzan-imanzadeh-079a95a3/) | [![Blog]](https://medium.com/@farzanimanzadeh) | [![CodeWars Profile]](https://www.codewars.com/users/fazzy15)
+[![LinkedIn]](https://www.linkedin.com/in/farzanimanzadeh/) | [![Blog]](https://medium.com/@farzanimanzadeh) | [![CodeWars Profile]](https://www.codewars.com/users/fazzy15)
 </div>
 
 Detail-orientated professional and graduate of the intensive [Makers Academy boot camp](https://makers.tech/). I have a passion for identifying gaps in tech stacks that could benefit with the use of other tech tools while making code more manageable and efficient. 
